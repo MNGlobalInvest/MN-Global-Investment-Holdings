@@ -107,7 +107,7 @@ Runs automatically on a scheduled basis. System checks include:
 * Duplicate transactions
 
 
-  ---
+---
 
 ### X. Executive Dashboard
 
