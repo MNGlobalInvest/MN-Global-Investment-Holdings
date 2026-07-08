@@ -126,17 +126,61 @@ Displays visual and operational metrics for:
 
 ### XI. Government Contracting
 
-**Daily Workflow:**
+**Daily Workflow (Sequential Process):**
+1. **Opportunity Search** — Active scanning for open procurement vehicles.
+2. **RFP Collection** — Gathering all relevant request for proposal documentation.
+3. **Categorization** — Sorting proposals by priority, agency, and requirements.
+4. **Compliance Analysis** — Reviewing technical and operational capabilities against matrix requirements.
+5. **Draft Proposal Generation** — Assembling response narratives and pricing files.
+6. **Management Review** — Executive evaluation of quality control, budgets, and operational risk.
+7. **Submission** — Transmitting the completed package to the awarding agency portal.
+8. **Performance Tracking** — Post-submission logging and outcome tracking within the SLED pipeline.
 
-```mermaid
-graph TD
-    A[Opportunity Search] --> B[RFP Collection]
-    B --> C[Categorization]
-    C --> D[Compliance Analysis]
-    D --> E[Draft Proposal Generation]
-    E --> F[Management Review]
-    F --> G[Submission]
-    G --> H[Performance Tracking]
+> **Notice:** Human approval remains the final step before submission.
+
+---
+
+### XII. AI Governance
+
+* **Chief Investment Officer Agent:** Monitor treasury policy, generate investment reports, recommend actions, record treasury activity.
+* **Corporate Secretary Agent:** Weekly compliance reviews, audit reporting, corporate records management, governance documentation.
+* **Operations Agent:** Monitor automations, resolve workflow failures, track KPIs, generate executive reports.
+* **Proposal Agent:** Analyze procurement opportunities, draft proposals, build compliance matrices, queue proposals for executive approval.
+
+---
+
+### XIII. Security Framework
+
+The repository and architecture implement the following controls:
+* Multi-factor authentication
+* Role-based access control
+* Version-controlled Apps Script
+* Encrypted backups
+* Hardware security keys
+* Continuous audit logging
+* Disaster recovery procedures
+
+---
+
+### XIV. Deployment Roadmap
+
+* **Phase 1: Foundation** | Google Workspace, Shared Drive structure, Corporate email, Axiom Ledger, Document templates.
+* **Phase 2: Treasury** | Treasury automation, Compliance automation, Reporting engine, Dashboard.
+* **Phase 3: SLED Operations** | Opportunity tracking, Proposal drafting, Notifications, Workflow automation.
+* **Phase 4: AI Operations** | Executive dashboard, AI management agents, Analytics, Executive reporting.
+* **Phase 5: Enterprise Platform** | API integrations, Workflow orchestration, Business intelligence, Digital asset monitoring, Autonomous reporting.
+
+---
+
+### XV. Guiding Principles
+
+* Every action is logged.
+* Every financial event is auditable.
+* Automation follows documented policies.
+* Human approval is required for regulated financial actions and external legal submissions.
+* Security is built into every system.
+* Automation is monitored continuously.
+* Systems evolve through documented version control.
 * Incomplete reports
 
 **Outputs:**
