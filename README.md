@@ -1,81 +1,142 @@
 # MN Global Investment Holdings LLC
-
-> *Building Enduring Value Through Innovation, Ownership, and Strategic Investment.*
-
----
-
-## Who We Are
-
-MN Global Investment Holdings LLC is a diversified holding entity established in 2013, headquartered in Duluth, MN. We operate five divisions spanning AI infrastructure, Bitcoin treasury management, government procurement, venture investments, and capital management.
-
-We are not a startup. We are a 13-year legacy entity transitioning into a full-scale, autonomous, tech-forward conglomerate.
+## Corporate Operating System v1.0
 
 ---
 
-## Operational Divisions
+### I. Corporate Identity
 
-| Division | Focus |
-|---|---|
-| MN Technologies | In-House AI Lab & UCAS Framework |
-| MN Digital Assets | Bitcoin Treasury & JEPI Yield Strategy |
-| SLED Flow | AI-Automated Government Procurement |
-| MN Ventures | Strategic M&A & Growth Equity |
-| MN Capital Management | Private Equity & Strategic Partnerships |
+* **Legal Entity:** MN Global Investment Holdings LLC
+* **State of Formation:** Minnesota
+* **Year Established:** 2013
+* **Executive Office:** Memphis (Remote Operations)
+* **Operating Model:** 100% Remote
+* **Business Structure:** Holding Company
 
----
-
-## Core Stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_GovCloud-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-- **Language:** Native Go — high-concurrency, zero-dependency backend systems
-- **Data Layer:** Redis — immutable vaulting and sub-millisecond caching
-- **Cloud:** AWS GovCloud — compliant, hardened, remote-first deployment
-- **Automation:** Gemini API & n8n — RFP parsing and proposal generation
-- **AI Framework:** UCAS / MAFOS — multi-agent financial operating system
+#### Primary Functions
+* Investment Holdings
+* Treasury Management
+* Technology Development
+* Government Contracting (SLED)
+* Digital Asset Treasury
+* Automation & AI Operations
 
 ---
 
-## Treasury Strategy
+### II. Corporate Mission
 
-We operate a Bitcoin-native treasury as our core store of value.
-
-- JEPI dividends accumulated with DRIP disabled
-- Dividends programmatically converted to BTC
-- Continuously expanding proprietary digital treasury
-
----
-
-## SLED Flow
-
-AI-powered government procurement division targeting State, Local, and Education contracts.
-
-- Automated RFP monitoring and parsing
-- Proposal generation in hours via Gemini API and n8n
-- Delivered remotely via AWS GovCloud
-- Zero reliance on legacy partnerships
+Create an automated holding company that:
+* Owns productive assets.
+* Generates recurring cash flow.
+* Maintains strong internal governance.
+* Uses automation to reduce administrative work.
+* Accumulates long-term strategic assets, including Bitcoin, under a documented treasury policy.
+* Maintains complete auditability of corporate operations.
 
 ---
 
-## Architecture Philosophy
+### III. Executive Divisions
 
-- Zero-dependency by design
-- Fault-tolerant under extreme adversarial load
-- Immutable packet routing
-- Infrastructure as Code — no manual deployments
-- Built to survive. Built to scale.
-
----
-
-## Contact
-
-**Founder & CEO:** Terry Williams
-**Headquarters:** Duluth, MN
-**Lightning:** majorhound21@primal.net
-**Nostr:** primal.net/majorhound21
+| Division | Responsibility |
+| :--- | :--- |
+| **Executive Office** | Corporate governance |
+| **Treasury Office** | Investment policy and treasury |
+| **Compliance Office** | Internal audits and controls |
+| **Technology Division** | Google Workspace, Apps Script, AI |
+| **SLED Division** | Government contracting |
+| **Digital Assets Division** | Bitcoin treasury |
+| **Operations** | Daily business management |
 
 ---
 
-*MN Global Investment Holdings LLC — Est. 2013*
+### IV. Treasury Policy
+
+**Target Allocation:**
+
+| Investment | Target |
+| :--- | :--- |
+| Vanguard S&P 500 ETF (VOO) | 16.78% |
+| Schwab US Dividend Equity ETF (SCHD) | 16.78% |
+| JPMorgan Equity Premium Income ETF (JEPI) | 30.20% |
+| Invesco S&P 500 High Dividend Low Volatility ETF (SPHD) | 24.83% |
+| JPMorgan Nasdaq Equity Premium Income ETF (JEPQ) | 11.41% |
+
+> **Note:** Treasury activities should follow documented corporate investment policies and applicable legal, tax, and brokerage requirements.
+
+---
+
+### V. Bitcoin Treasury
+
+**Policy Objectives:**
+* Weekly dollar-cost averaging.
+* Monthly dividend review.
+* Maintain an operating cash reserve.
+* Record every treasury transaction.
+* Periodically transfer Bitcoin to approved long-term storage according to internal policy.
+
+---
+
+### VI. Axiom Operating System
+
+* **Platform:** Google Workspace (Gmail, Drive, Docs, Sheets, Calendar, Forms, Apps Script).
+* **Core Engine:** Apps Script serves as the company's automation engine.
+
+---
+
+### VII. Core Systems
+
+* **Axiom Ledger:** Tracks Date, Cash Balance, Investments, Bitcoin Purchases, Holdings, Notes, Compliance Status.
+* **Treasury Dashboard:** Tracks Portfolio Allocation, Dividend Income, Cash Position, Bitcoin Treasury, Performance Metrics.
+* **Compliance Register:** Tracks Audit Results, Exceptions, Required Reviews, Internal Controls.
+* **SLED Pipeline:** Tracks RFP Opportunities, Agencies, Deadlines, Proposal Status, Awards.
+
+---
+
+### VIII. Automation Modules
+
+* **Modules:** `Treasury.gs`, `Auditor.gs`, `Firewall.gs`, `Dashboard.gs`, `Reporting.gs`, `Notifications.gs`, `SLED.gs`.
+* **Architecture:** Each module has one clearly defined responsibility.
+
+---
+
+### IX. Compliance Engine
+
+Runs automatically on a scheduled basis. System checks include:
+* Required operating reserve
+* Missing ledger entries
+* Failed automation jobs
+* Duplicate transactions
+
+
+  ---
+
+### X. Executive Dashboard
+
+Displays visual and operational metrics for:
+* Total Corporate Assets
+* Cash Position
+* Bitcoin Holdings
+* Investment Allocation
+* Dividend Income
+* Government Contract Pipeline
+* Monthly Revenue
+* Net Worth
+* Compliance Status
+
+---
+
+### XI. Government Contracting
+
+**Daily Workflow:**
+
+```mermaid
+graph TD
+    A[Opportunity Search] --> B[RFP Collection]
+    B --> C[Categorization]
+    C --> D[Compliance Analysis]
+    D --> E[Draft Proposal Generation]
+    E --> F[Management Review]
+    F --> G[Submission]
+    G --> H[Performance Tracking]
+* Incomplete reports
+
+**Outputs:**
