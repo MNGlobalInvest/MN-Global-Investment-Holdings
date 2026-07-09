@@ -181,6 +181,4 @@ The repository and architecture implement the following controls:
 * Security is built into every system.
 * Automation is monitored continuously.
 * Systems evolve through documented version control.
-* Incomplete reports
 
-**Outputs:**
