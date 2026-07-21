@@ -502,4 +502,3 @@ The company is built on four capabilities:
 
 A technology-enabled capital platform designed for disciplined growth, recurring cash flow, and long-term enterprise value.
 
-This versi
