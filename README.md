@@ -58,405 +58,506 @@ If an activity accomplishes none of these objectives, it is eliminated.
 
 # The MN Global Enterprise System
 
-```text
-                 MN GLOBAL INVESTMENT HOLDINGS
+             MN GLOBAL INVESTMENT HOLDINGS
 
-                     Corporate Treasury & Strategy
-                              |
-      -------------------------------------------------
-      |                       |                       |
-      ▼                       ▼                       ▼
+                 Corporate Treasury & Strategy
+                          |
+  -------------------------------------------------
+  |                       |                       |
+  ▼                       ▼                       ▼
 
-Enterprise Revenue      Asset Conversion       Capital Management
+Enterprise Revenue Asset Conversion Capital Management
 
-Institutional Sales     Acquisition & Resale    Investment Portfolio
+Institutional Sales Acquisition & Resale Investment Portfolio
 
-      |                       |                       |
-      -------------------------------------------------
-                              |
-                       Capital Reinvestment
-                              |
-                    Higher Value Opportunities
-Operating Principle
+  |                       |                       |
+  -------------------------------------------------
+                          |
+                   Capital Reinvestment
+                          |
+                Higher Value Opportunities
+
+## Operating Principle
+
+
 Capital flows upward.
 Strategy flows downward.
 
+
 Every operating division exists to strengthen one centralized treasury.
 
-Enterprise Divisions
-1. Enterprise Revenue Division
-Purpose
+---
+
+# Enterprise Divisions
+
+## 1. Enterprise Revenue Division
+
+### Purpose
 
 Generate recurring institutional revenue through government and commercial technology contracts.
 
-Primary Markets
-State Government
-Local Government
-Education
-Enterprise Organizations
-Primary Services
-Technology Procurement
-IT Equipment Supply
-Network Infrastructure
-Hardware Lifecycle Management
-Professional Technology Services
-Strategic Goal
+### Primary Markets
+
+- State Government
+- Local Government
+- Education
+- Enterprise Organizations
+
+### Primary Services
+
+- Technology Procurement
+- IT Equipment Supply
+- Network Infrastructure
+- Hardware Lifecycle Management
+- Professional Technology Services
+
+### Strategic Goal
 
 Develop long-term institutional relationships that generate predictable cash flow and expand enterprise value.
 
-2. Asset Conversion Division
-Purpose
+---
+
+# 2. Asset Conversion Division
+
+## Purpose
 
 Acquire undervalued assets, increase their market value, and monetize them through efficient resale channels.
 
-Asset Sources
-Government surplus
-Corporate technology refreshes
-Commercial liquidations
-Auctions
-Enterprise asset recovery programs
-Core Process
+## Asset Sources
+
+- Government surplus
+- Corporate technology refreshes
+- Commercial liquidations
+- Auctions
+- Enterprise asset recovery programs
+
+## Core Process
+
+
 Source Opportunity
-        |
-        ▼
+|
+▼
 Acquire Asset
-        |
-        ▼
+|
+▼
 Inspect & Test
-        |
-        ▼
+|
+▼
 Repair / Refurbish
-        |
-        ▼
+|
+▼
 Document & Inventory
-        |
-        ▼
+|
+▼
 Sell
-        |
-        ▼
+|
+▼
 Reinvest Profits
-Strategic Goal
+
+
+## Strategic Goal
 
 Convert market inefficiencies into profitable opportunities while minimizing operational complexity.
 
-3. Capital Management Division
-Purpose
+---
+
+# 3. Capital Management Division
+
+## Purpose
 
 Preserve and compound enterprise capital through disciplined investment.
 
-Responsibilities
-Treasury Management
-Cash Reserve Allocation
-Equity Portfolio Management
-Bitcoin Treasury Strategy
-Liquidity Planning
-Risk Management
-Investment Philosophy
+## Responsibilities
+
+- Treasury Management
+- Cash Reserve Allocation
+- Equity Portfolio Management
+- Bitcoin Treasury Strategy
+- Liquidity Planning
+- Risk Management
+
+## Investment Philosophy
+
+
 Business Operations
-        |
-        ▼
+|
+▼
 Generate Capital
-        |
-        ▼
+|
+▼
 Acquire Productive Assets
-        |
-        ▼
+|
+▼
 Increase Future Cash Generation
-Five Strategic Principles
-1. Vertical Integration
+
+
+---
+
+# Five Strategic Principles
+
+## 1. Vertical Integration
 
 MN Global seeks control over the highest-value stages of each business process.
 
-Focus Areas
-Sourcing
-Quality Control
-Customer Relationships
-Operational Data
-Asset Management
-Objective
+### Focus Areas
+
+- Sourcing
+- Quality Control
+- Customer Relationships
+- Operational Data
+- Asset Management
+
+### Objective
 
 Increase margins while reducing dependency.
 
-2. Horizontal Expansion
+---
+
+## 2. Horizontal Expansion
 
 MN Global maximizes customer lifetime value by expanding services around existing relationships.
 
-Expansion Opportunities
-Additional equipment
-Technology upgrades
-Maintenance services
-Lifecycle management
-Support solutions
-Objective
+### Expansion Opportunities
+
+- Additional equipment
+- Technology upgrades
+- Maintenance services
+- Lifecycle management
+- Support solutions
+
+### Objective
 
 Increase revenue without proportionally increasing acquisition costs.
 
-3. Operational Intelligence
+---
+
+## 3. Operational Intelligence
 
 All strategic decisions originate from the centralized operating system:
 
-Axiom
-Axiom Tracks
-Financial Performance
-Inventory
-Contracts
-Suppliers
-Government Opportunities
-Workflow Status
-Business Intelligence
-Automation Metrics
-Objective
+# Axiom
+
+### Axiom Tracks
+
+- Financial Performance
+- Inventory
+- Contracts
+- Suppliers
+- Government Opportunities
+- Workflow Status
+- Business Intelligence
+- Automation Metrics
+
+### Objective
 
 Maintain one source of truth for the enterprise.
 
-4. Capital Efficiency
+---
+
+## 4. Capital Efficiency
 
 MN Global intentionally avoids business models requiring excessive:
 
-Labor
-Facilities
-Capital
-Inventory
-Preferred Characteristics
-High Margin
-High Value Density
-Technology-Based
-Easily Shipped
-Low Inventory Footprint
-Process Driven
-Objective
+- Labor
+- Facilities
+- Capital
+- Inventory
+
+### Preferred Characteristics
+
+- High Margin
+- High Value Density
+- Technology-Based
+- Easily Shipped
+- Low Inventory Footprint
+- Process Driven
+
+### Objective
 
 Maximize return on capital and labor.
 
-5. Continuous Reinvestment
+---
+
+## 5. Continuous Reinvestment
 
 Capital allocation follows a disciplined hierarchy:
 
-1. Preserve Liquidity
-2. Maintain Operations
-3. Expand Profitable Activities
-4. Acquire Strategic Assets
-5. Increase Long-Term Investments
-6. Strengthen Bitcoin Treasury
+Preserve Liquidity
+Maintain Operations
+Expand Profitable Activities
+Acquire Strategic Assets
+Increase Long-Term Investments
+Strengthen Bitcoin Treasury
 
 Every dollar is assigned a purpose.
 
 Idle capital represents unrealized opportunity.
 
-Asset Acquisition Standard
+---
+
+# Asset Acquisition Standard
 
 Every physical asset must satisfy four requirements:
 
-Requirement	Standard
-Size	Can one person safely handle it?
-Logistics	Can it ship economically?
-Storage	Can it be efficiently inventoried?
-Verification	Can ownership, condition, and resale value be validated?
-Preferred Asset Categories
-Acquire
-Enterprise Servers
-Networking Equipment
-Computer Components
-Industrial Electronics
-Specialized IT Hardware
-Avoid
-Bulky Equipment
-Scrap Materials
-Unknown Condition Assets
-Low-Margin Commodities
-Weekly Operating Cycle
-Day	Focus	Activities
-Monday-Tuesday	Opportunity Discovery	Research auctions, evaluate contracts, submit bids, analyze pricing
-Wednesday	Asset Processing	Inspection, testing, cleaning, documentation, inventory
-Thursday	Market Execution	Publish listings, contact buyers, optimize pricing
-Friday-Saturday	Fulfillment	Shipping, accounting, profit analysis, treasury reconciliation
-AI Executive Office
+| Requirement | Standard |
+|---|---|
+| Size | Can one person safely handle it? |
+| Logistics | Can it ship economically? |
+| Storage | Can it be efficiently inventoried? |
+| Verification | Can ownership, condition, and resale value be validated? |
+
+---
+
+# Preferred Asset Categories
+
+## Acquire
+
+- Enterprise Servers
+- Networking Equipment
+- Computer Components
+- Industrial Electronics
+- Specialized IT Hardware
+
+## Avoid
+
+- Bulky Equipment
+- Scrap Materials
+- Unknown Condition Assets
+- Low-Margin Commodities
+
+---
+
+# Weekly Operating Cycle
+
+| Day | Focus | Activities |
+|---|---|---|
+| Monday-Tuesday | Opportunity Discovery | Research auctions, evaluate contracts, submit bids, analyze pricing |
+| Wednesday | Asset Processing | Inspection, testing, cleaning, documentation, inventory |
+| Thursday | Market Execution | Publish listings, contact buyers, optimize pricing |
+| Friday-Saturday | Fulfillment | Shipping, accounting, profit analysis, treasury reconciliation |
+
+---
+
+# AI Executive Office
 
 Artificial intelligence functions as an executive operating layer supporting:
 
-Decision-making
-Automation
-Research
-Operational execution
-Strategic Advisor
+- Decision-making
+- Automation
+- Research
+- Operational execution
+
+---
+
+# Strategic Advisor
 
 Responsibilities:
 
-Evaluates strategic alignment
-Reviews decisions
-Identifies opportunities and risks
+- Evaluates strategic alignment
+- Reviews decisions
+- Identifies opportunities and risks
 
 Primary Question:
 
-Does this improve cash flow, control, or enterprise value?
+"Does this improve cash flow, control, or enterprise value?"
 
-Operations Manager
+---
 
-Responsibilities:
-
-Monitors workflows
-Tracks automation
-Reviews performance metrics
-Corporate Secretary
+# Operations Manager
 
 Responsibilities:
 
-Maintains governance records
-Tracks compliance requirements
-Organizes corporate documentation
-Proposal Manager
+- Monitors workflows
+- Tracks automation
+- Reviews performance metrics
+
+---
+
+# Corporate Secretary
 
 Responsibilities:
 
-Develops government proposals
-Prepares bid responses
-Supports contract development
-Technology Infrastructure
+- Maintains governance records
+- Tracks compliance requirements
+- Organizes corporate documentation
+
+---
+
+# Proposal Manager
+
+Responsibilities:
+
+- Develops government proposals
+- Prepares bid responses
+- Supports contract development
+
+---
+
+# Technology Infrastructure
 
 MN Global operates through an integrated enterprise technology environment supporting:
 
-Artificial intelligence
-Research
-Automation
-Software development
-Data management
-Technology Stack
-Function	Platform	Purpose
-Intelligence	ChatGPT / Claude	Strategic planning and executive support
-Research	Perplexity AI	Market intelligence and analysis
-Visual Communication	Canva / Microsoft Designer	Presentations and marketing assets
-Development	GitHub Copilot	Software development and automation
-Data Analysis	Google Colab	Analytics and prototypes
-Automation	Zapier	Workflow automation
-Data Integration	Coefficient	Reporting and visibility
-Enterprise Technology Flow
+- Artificial intelligence
+- Research
+- Automation
+- Software development
+- Data management
+
+---
+
+# Technology Stack
+
+| Function | Platform | Purpose |
+|---|---|---|
+| Intelligence | ChatGPT / Claude | Strategic planning and executive support |
+| Research | Perplexity AI | Market intelligence and analysis |
+| Visual Communication | Canva / Microsoft Designer | Presentations and marketing assets |
+| Development | GitHub Copilot | Software development and automation |
+| Data Analysis | Google Colab | Analytics and prototypes |
+| Automation | Zapier | Workflow automation |
+| Data Integration | Coefficient | Reporting and visibility |
+
+---
+
+# Enterprise Technology Flow
+
+
 Research Intelligence
 (Perplexity AI)
-        |
-        ▼
+|
+▼
 Primary Intelligence Platform
 (ChatGPT / Claude)
-        |
-        ▼
+|
+▼
 Automation Layer
 (Zapier)
-        |
-        ▼
+|
+▼
 Data Synchronization
 (Coefficient)
-        |
-        ▼
+|
+▼
 Business Reporting & Analytics
-Capital Allocation Framework
-Objective	Asset
-Growth	VOO
-Bitcoin Exposure	IBIT
-Dividend Income	SCHD
-Income Enhancement	GOOW
-Liquidity Reserve	SGOV
-Objective
 
-Balance:
 
-Growth
-Income
-Liquidity
-Digital asset exposure
-Long-term capital appreciation
-MN Global Capital Flywheel
+---
+
+# Capital Allocation Framework
+
+| Objective | Asset |
+|---|---|
+| Growth | VOO |
+| Bitcoin Exposure | IBIT |
+| Dividend Income | SCHD |
+| Income Enhancement | GOOW |
+| Liquidity Reserve | SGOV |
+
+---
+
+# MN Global Capital Flywheel
+
+
 Acquire Opportunities
-        |
-        ▼
+|
+▼
 Generate Cash Flow
-        |
-        ▼
+|
+▼
 Increase Treasury
-        |
-        ▼
+|
+▼
 Acquire Productive Assets
-        |
-        ▼
+|
+▼
 Expand Investment Portfolio
-        |
-        ▼
+|
+▼
 Strengthen Bitcoin Reserve
-        |
-        ▼
+|
+▼
 Increase Enterprise Value
-        |
-        ▼
+|
+▼
 Repeat
 
-Each cycle strengthens the company's financial position and expands its ability to pursue larger opportunities.
 
-Long-Term Objective
+---
+
+# Long-Term Objective
 
 MN Global Investment Holdings is designed to operate as a lean, technology-enabled holding company that systematically converts operational efficiency into long-term wealth.
 
-Four Enduring Capabilities
-Institutional Revenue Generation
-Strategic Asset Acquisition
-Intelligent Capital Allocation
-Enterprise Automation
-Future Organizational Expansion
+## Four Enduring Capabilities
 
-As MN Global grows, the company may expand into four strategic business units.
+1. Institutional Revenue Generation
+2. Strategic Asset Acquisition
+3. Intelligent Capital Allocation
+4. Enterprise Automation
 
-1. Enterprise Solutions
+---
 
-Focus:
+# Future Organizational Expansion
 
-Government contracting
-Technology services
-Procurement
-Consulting
-2. Asset Recovery & Distribution
+## 1. Enterprise Solutions
 
-Focus:
+- Government contracting
+- Technology services
+- Procurement
+- Consulting
 
-Liquidation
-Refurbishment
-Resale
-Asset lifecycle management
-3. Capital Management
+## 2. Asset Recovery & Distribution
 
-Focus:
+- Liquidation
+- Refurbishment
+- Resale
+- Asset lifecycle management
 
-Treasury operations
-Investment portfolio management
-Bitcoin strategy
-Capital allocation
-4. Enterprise Technology (Axiom)
+## 3. Capital Management
 
-Focus:
+- Treasury operations
+- Investment portfolio management
+- Bitcoin strategy
+- Capital allocation
 
-Internal software
-Artificial intelligence systems
-Automation
-Analytics
-Future commercial technology solutions
-Final Statement
+## 4. Enterprise Technology (Axiom)
+
+- Internal software
+- Artificial intelligence systems
+- Automation
+- Analytics
+- Future commercial technology solutions
+
+---
+
+# Final Statement
 
 MN Global Investment Holdings exists to transform:
 
+
 Inefficiency
-      |
-      ▼
+|
+▼
 Opportunity
-      |
-      ▼
+|
+▼
 Cash Flow
-      |
-      ▼
+|
+▼
 Productive Assets
-      |
-      ▼
+|
+▼
 Enduring Financial Independence
+
 
 The enterprise is built upon:
 
-Technology
-Automation
-Ownership
-Capital discipline
-Strategic execution
+- Technology
+- Automation
+- Ownership
+- Capital discipline
+- Strategic execution
+
+---
+
+© 2026 MN Global Investment Holdings LLC
