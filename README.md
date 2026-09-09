@@ -1,788 +1,814 @@
-````markdown
-# MN Global Investment Holdings, LLC
+<div align="center">
 
-<p align="center">
-  <strong>AI-Enabled Corporate Operating System</strong><br>
-  <sub>Technology · Automation · Revenue Operations · Capital Discipline</sub>
-</p>
+# MN GLOBAL INVESTMENT HOLDINGS, LLC
 
-<p align="center">
+### Perpetual Master Corporate Blueprint
 
-[![Corporate Blueprint](https://img.shields.io/badge/Corporate-Blueprint-0B1F33?style=for-the-badge)](#)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-6C47FF?style=for-the-badge)](#technology-stack)
-[![Automation](https://img.shields.io/badge/Automation-Enabled-0078D4?style=for-the-badge)](#automation-architecture)
-[![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)](#technology-stack)
-[![GitHub](https://img.shields.io/badge/GitHub-Infrastructure-181717?style=for-the-badge&logo=github&logoColor=white)](#technology-stack)
-[![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)](#documentation)
-[![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge)](#repository-status)
-
-</p>
-
-<p align="center">
-  <strong>Perpetual Master Corporate Blueprint</strong><br>
-  AI Technology Stack · Dual-Prompt Operating Framework · Automation Architecture
-</p>
-
----
-
-## Executive Summary
-
-**MN Global Investment Holdings, LLC** operates as a technology-enabled, single-member enterprise built around a centralized AI workbench, proprietary automation, standardized service delivery, disciplined revenue operations, and structured capital allocation.
-
-This repository serves as the company's **master operating blueprint**.
-
-It documents:
-
-- Corporate governance
-- Authorized technology infrastructure
-- AI operating architecture
-- Dual-prompt execution framework
-- Vertical and horizontal integration
-- Revenue and service pipeline
-- Treasury allocation framework
-- Automation engines
-- Governance and reconciliation procedures
-- Core Hermes and MAOCS operating prompts
-
-> **Core Principle:** Technology executes defined workflows. The Founder & CEO retains authority over material business, legal, financial, contractual, and client-delivery decisions.
-
----
-
-# Table of Contents
-
-- [Executive Summary](#executive-summary)
-- [Corporate Profile](#corporate-profile)
-- [Operating Model](#operating-model)
-- [Technology Stack](#technology-stack)
-- [AI Architecture](#ai-architecture)
-- [Automation Architecture](#automation-architecture)
-- [Vertical & Horizontal Integration](#vertical--horizontal-integration)
-- [Revenue & Product Pipeline](#revenue--product-pipeline)
-- [Treasury & Capital Allocation](#treasury--capital-allocation)
-- [Hermes Agent](#hermes-agent)
-- [MAOCS Master Prompt](#maocs-master-prompt)
-- [Operating Principles](#operating-principles)
-- [Security & Governance](#security--governance)
-- [Repository Status](#repository-status)
-- [Disclaimer](#disclaimer)
-
----
-
-# Corporate Profile
-
-<table>
-<tr>
-<td><strong>Legal Entity</strong></td>
-<td>MN Global Investment Holdings, LLC</td>
-</tr>
-<tr>
-<td><strong>Business Structure</strong></td>
-<td>Single-Member LLC · Pass-Through Taxation</td>
-</tr>
-<tr>
-<td><strong>Founder & CEO</strong></td>
-<td>Terry Williams</td>
-</tr>
-<tr>
-<td><strong>Jurisdiction</strong></td>
-<td>State of Minnesota</td>
-</tr>
-<tr>
-<td><strong>Formation</strong></td>
-<td>2013</td>
-</tr>
-<tr>
-<td><strong>Registered Status</strong></td>
-<td>Good Standing · Active & Maintained</td>
-</tr>
-<tr>
-<td><strong>Registered Agent</strong></td>
-<td>Minnesota Registered Agent Services LLC</td>
-</tr>
-<tr>
-<td><strong>Operations HQ</strong></td>
-<td>539 E McLemore Ave, #5 · Memphis, TN 38106</td>
-</tr>
-<tr>
-<td><strong>Federal Registration</strong></td>
-<td>SAM.gov Active Registration · CAGE Code Validated</td>
-</tr>
-<tr>
-<td><strong>Operating Rhythm</strong></td>
-<td>Daily Reconciliation · Quarterly Taxes · Annual State Renewals</td>
-</tr>
-</table>
-
----
-
-# Operating Model
-
-MN Global is structured as a **lean, technology-enabled operating company**.
-
-The operating model is built around three principles:
-
-| Principle | Objective |
-|---|---|
-| **AI-Assisted Execution** | Use specialized AI systems for research, drafting, reasoning, automation, and intelligence. |
-| **Proprietary Automation** | Convert repeatable business processes into reusable software, scripts, prompts, and workflows. |
-| **Founder Control** | Preserve human authority over material decisions, approvals, contracts, and financial actions. |
-
-### AI Governance Model
-
-AI systems are operational tools.
-
-They may:
-
-- Research
-- Draft
-- Analyze
-- Automate defined workflows
-- Generate code
-- Monitor systems
-- Prepare reports
-- Produce recommendations
-
-They do **not** independently replace executive authority over:
-
-- Legal commitments
-- Binding contracts
-- Material financial decisions
-- Final client delivery authorization
-- High-value treasury movements
-
----
-
-# Technology Stack
-
-The corporate technology environment is organized into five operating modules.
-
-## 01 · AI Workbench & Intelligence
-
-| Platform | Code | Primary Function |
-|---|---:|---|
-| Claude | `CL` | Complex reasoning, document drafting, architecture |
-| Gemini Pro | `GO` | Executive workflow automation and reasoning |
-| Google AI Studio | `AI` | Prompt engineering, API testing, JSON schemas |
-| ChatGPT | `GP` | General assistance, scripts, communications |
-| Grok | `GK` | Real-time intelligence and sentiment monitoring |
-| Perplexity | `PX` | Market research, B2B intelligence, lead enrichment |
-| Google Colab | `CB` | Python execution, processing, scraper development |
-
-## 02 · Creative Studio
-
-| Platform | Code | Primary Function |
-|---|---:|---|
-| Microsoft Designer | `MD` | Graphic assets and sales collateral |
-| Leonardo.ai | `LN` | Visual asset generation |
-
-## 03 · Capital & Markets
-
-| Platform | Code | Primary Function |
-|---|---:|---|
-| Public.com | `PB` | Reserve, Treasury, dividend and equity allocation |
-| Kraken | `KR` | Bitcoin DCA execution and custody workflow |
-| Stripe | `ST` | Billing, checkout links and revenue collection |
-
-## 04 · Operations & Network
-
-| Platform | Code | Primary Function |
-|---|---:|---|
-| GitHub | `GH` | Code, repositories, automation and version control |
-| NeetoCal | `NC` | Client scheduling and appointment booking |
-| LinkedIn | `LI` | B2B relationship development and visibility |
-
-## 05 · Resource Vault
-
-| Resource | Code | Primary Function |
-|---|---:|---|
-| Free-for.dev | `FD` | Free infrastructure and deployment resources |
-| OSINT4ALL | `OS` | Intelligence gathering and market research |
-| Open Alternative | `OA` | Open-source SaaS alternatives |
-| No Signups | `NS` | Quick operational utilities |
-| Best Free AI Websites | `BF` | AI-tool discovery |
-
----
-
-# AI Architecture
-
-## Dual-Prompt Operating System
-
-MN Global separates **background system execution** from **interactive AI workbench execution**.
-
-```text
-                    MN GLOBAL OPERATING SYSTEM
-
-                              │
-                              ▼
-              ┌─────────────────────────────┐
-              │   CORPORATE OPERATIONS      │
-              └──────────────┬──────────────┘
-                             │
-                ┌────────────┴────────────┐
-                │                         │
-                ▼                         ▼
-     ┌─────────────────────┐   ┌─────────────────────┐
-     │   HERMES AGENT      │   │       MAOCS         │
-     │ Background Control  │   │ Interactive Engine  │
-     ├─────────────────────┤   ├─────────────────────┤
-     │ • System execution  │   │ • Client delivery   │
-     │ • Code maintenance  │   │ • Sales operations  │
-     │ • Webhooks          │   │ • Strategy          │
-     │ • Lead pipelines    │   │ • Code generation   │
-     │ • Monitoring        │   │ • Communications    │
-     │ • Ledger logging    │   │ • Treasury workflow │
-     └─────────────────────┘   └─────────────────────┘
-                │                         │
-                └────────────┬────────────┘
-                             ▼
-                ┌─────────────────────────┐
-                │     FOUNDER & CEO       │
-                │     FINAL AUTHORITY     │
-                └─────────────────────────┘
-````
-
-### Architecture Responsibilities
-
-| System            | Responsibility                                                |
-| ----------------- | ------------------------------------------------------------- |
-| **Hermes**        | Background technical execution and system-level automation    |
-| **MAOCS**         | Interactive business, client, sales and operational execution |
-| **Founder & CEO** | Final authority and executive approval                        |
-
----
-
-# Automation Architecture
-
-The operating system is divided into four primary execution engines.
-
-## Engine 1 · Sales & Acquisition
-
-**Target Verticals**
-
-* Commercial General Contractors
-* Multi-Partner CPA Practices
-* Regional Logistics & Dispatchers
-* Local Professional Offices
-
-**Core Offer**
-
-> **7-Day Efficiency Audit — $497**
-
-The audit is designed to identify administrative bottlenecks, develop an automation opportunity, and quantify operational efficiency.
-
-### Acquisition Workflow
-
-```text
-PROSPECT
-   │
-   ▼
-INTELLIGENCE
-   │
-   ▼
-QUALIFICATION
-   │
-   ▼
-OUTREACH
-   │
-   ▼
-$497 AUDIT
-   │
-   ▼
-CUSTOM AUTOMATION
-   │
-   ▼
-$3,500 PILOT
-   │
-   ▼
-$1,997/MO RETAINER
-```
-
----
-
-## Engine 2 · Client Intake & Delivery
-
-### Stage 1 — Audit
-
-**$497**
-
-* Parse intake forms
-* Map operational bottlenecks
-* Identify manual data-entry points
-* Develop automation architecture
-
-### Stage 2 — Pilot
-
-**$3,500**
-
-Potential systems include:
-
-* Accounts Payable reconciliation
-* OCR receipt matching
-* Client onboarding
-* Workflow automation
-* API integrations
-
-### Stage 3 — Managed Retainer
-
-**$1,997/month**
-
-* API monitoring
-* Uptime verification
-* Exception logging
-* Operational reporting
-* System maintenance
-
-### Stage 4 — Digital Products
-
-**$97–$297**
-
-Convert proven workflows into:
-
-* Process guides
-* Prompt packs
-* Reusable modules
-* Mini-courses
-* Downloadable operational assets
-
----
-
-# Vertical & Horizontal Integration
-
-## Vertical Integration
-
-The company seeks to control the workflow from development through delivery.
-
-### Upstream
-
-Build proprietary prompt systems, Python pipelines, API wrappers, and automation infrastructure.
-
-### Midstream
-
-Convert bespoke implementations into reusable software templates.
-
-### Downstream
-
-Use billing and scheduling infrastructure to support client delivery and recurring maintenance relationships.
-
----
-
-## Horizontal Integration
-
-The automation framework is designed for deployment across multiple sectors.
-
-### Primary Verticals
-
-1. **CPA Practices**
-2. **General Contractors**
-3. **Fleet Logistics**
-4. **Professional Offices**
-
-> **Scaling Rule:** When an automation system is proven in one vertical, adapt the underlying workflow for adjacent sectors rather than rebuilding the system from zero.
-
----
-
-# Revenue & Product Pipeline
-
-|  Stage | Offer                            |              Price | Target Margin |
-| -----: | -------------------------------- | -----------------: | ------------: |
-| **01** | 7-Day Efficiency Audit           |           **$497** |       **90%** |
-| **02** | AP & Intake System Deployment    |         **$3,500** |       **85%** |
-| **03** | Managed Autonomous Engine        |      **$1,997/mo** |       **95%** |
-| **04** | Reusable Workflow Modules        |       **$97–$297** |       **99%** |
-| **05** | Sovereign Infrastructure Program | **$7,500–$15,000** |       **80%** |
-
-### Technology Mapping
-
-| Offer              | Primary Technology        |
-| ------------------ | ------------------------- |
-| Efficiency Audit   | `PX` · `OS` · `LI` · `ST` |
-| Core Build         | `CL` · `AI` · `CB` · `GH` |
-| Managed Engine     | Hermes · `GH` · `NC`      |
-| Digital Assets     | `GP` · `MD` · `ST` · `OA` |
-| Enterprise Program | Full Stack                |
-
----
-
-# Treasury & Capital Allocation
-
-Capital allocation is structured around **Net Free Cash Flow**, not gross revenue.
-
-```text
-                    GROSS REVENUE
-                         │
-                         ▼
-              OPERATING EXPENSES
-                         │
-                         ▼
-                  TAX ESCROW
-                     25%
-                         │
-                         ▼
-              NET FREE CASH FLOW
-                    100%
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       TRACK A        TRACK B        TRACK C
-         40%            50%            10%
-          │              │              │
-          ▼              ▼              ▼
-       BITCOIN       RESERVES       COMMUNITY
-```
-
-## Tax Escrow
-
-**25% of gross receipts**
-
-Funds are reserved for tax obligations before net free cash flow is calculated.
-
----
-
-## Track A · Bitcoin Vault
-
-**40% of Net FCF**
-
-* Weekly DCA execution
-* Bitcoin accumulation
-* Monthly custody sweep
-* Air-gapped cold storage
-* BIP-39 steel backup
-
----
-
-## Track B · Growth & Capital Reserve
-
-**50% of Net FCF**
-
-| Allocation | Asset       | Purpose                         |
-| ---------: | ----------- | ------------------------------- |
-|    **40%** | SGOV / USFR | Short-term Treasury exposure    |
-|    **30%** | SCHD        | Dividend-growth equity exposure |
-|    **15%** | MAIN        | BDC income                      |
-|    **15%** | O           | Real-estate income              |
-
----
-
-## Track C · Strategic Community Fund
-
-**10% of Net FCF**
-
-Potential community beneficiaries include:
-
-* Twelfth Step House
-* Entrepreneur Fund
-* Code Savvy
-
-> **Zero-Profit Rule:** If monthly net earnings equal `$0`, Track C allocation equals `$0`.
-
----
-
-# Hermes Agent
-
-## System Integration & Background Control
-
-The Hermes Agent is the background system controller responsible for technical workflows, code maintenance, utility scripts, lead pipelines, API triggers, monitoring, and operational logging.
-
-### Hermes Control Prompt
-
-```text
-YOU ARE THE HERMES AGENT, THE CENTRAL AUTONOMOUS SYSTEM CONTROLLER FOR MN GLOBAL INVESTMENT HOLDINGS, LLC (TERRY WILLIAMS, FOUNDER & CEO | HQ: 539 E MCLEMORE AVE, # 5, MEMPHIS, TN 38106). YOU RUN 100% OF SYSTEM-LEVEL OPERATIONAL EXECUTION, CODE MAINTENANCE, UTILITY SCRIPTS, AND BACKGROUND FINANCIAL ALLOCATIONS.
-
-=== AUTHORISED TECH STACK STORES ===
-AI WORKBENCH: Claude (CL), Google Pro (GO), AI Studio (AI), ChatGPT (GP), Grok (GK), Perplexity (PX), Colab (CB).
-CREATIVE: Microsoft Designer (MD), Leonardo.ai (LN).
-CAPITAL: Public.com (PB), Kraken (KR), Stripe (ST).
-OPERATIONS: GitHub (GH), NeetoCal (NC), LinkedIn (LI).
-VAULT: Free-for.dev (FD), OSINT4ALL (OS), Open Alternative (OA), No Signups (NS), Best Free AI Websites (BF).
-
-=== SYSTEM DIRECTIVES ===
-1. PIPELINE RUNNER: Execute lead scraping routines, store structured output to /home/alex/leads/prospects.csv, and trigger Stripe (ST) payment links for $497 Efficiency Audits.
-2. CLIENT ONBOARDING: Listen to incoming webhooks via local Flask scripts (/home/alex/scripts/webhook_receiver.py) and auto-provision client execution directories (/home/alex/clients/[client_name]).
-3. CODE SELF-HEALING: Monitor execution scripts. If an operational script encounters a stack trace error, capture error log, rewrite Python script locally, test, and re-execute. Write permanent skill files to ~/.hermes/skills/[skill_name].md.
-4. TREASURY AUTOMATION: Trigger ~/treasury_split.py upon revenue receipt. Deduct 25% tax escrow. Allocate Net Free Cash Flow: 40% Kraken (KR) BTC DCA, 50% Public.com (PB) Reserves (SGOV/SCHD/MAIN/O), 10% Community.
-5. GOVERNANCE & LEDGER: Reconcile financial records automatically, check SAM.gov/Minnesota Secretary of State status, and generate daily logs to /home/alex/reports/daily_summary.md.
-```
-
----
-
-# MAOCS Master Prompt
-
-## Interactive AI Workbench & Operational Engine
-
-MAOCS — the **Master Autonomous Operational Control System** — is designed for interactive execution of client builds, sales operations, strategy, outbound communications, workflow development, and business tasks.
-
-### MAOCS Control Prompt
-
-```text
-YOU ARE THE MASTER AUTONOMOUS OPERATIONAL CONTROL SYSTEM (MAOCS) FOR MN GLOBAL INVESTMENT HOLDINGS, LLC (SINGLE-MEMBER LLC, MN INCORPORATED 2013, OPERATIONS HQ: 539 E MCLEMORE AVE, # 5, MEMPHIS, TN 38106; REGISTERED AGENT: MINNESOTA REGISTERED AGENT SERVICES LLC). YOUR SOLE PURPOSE IS TO EXECUTE 100% OF OPERATIONAL, SALES, DELIVERY, TREASURY, AND COMPLIANCE FUNCTIONS WITH ABSOLUTE SPEED, ZERO FRICTION, AND MAXIMUM CASH FLOW EFFICIENCY FOR THE SOLE FOUNDER & CEO, TERRY WILLIAMS.
-
-=== AUTHORISED TECH STACK DIRECTIVES ===
-In executing tasks, utilize the dedicated corporate tech stack:
-- Intelligence: Claude (CL), Google Pro (GO), AI Studio (AI), ChatGPT (GP), Grok (GK), Perplexity (PX), Colab (CB).
-- Assets: Microsoft Designer (MD), Leonardo.ai (LN).
-- Capital: Public.com (PB), Kraken (KR), Stripe (ST).
-- Infrastructure: GitHub (GH), NeetoCal (NC), LinkedIn (LI).
-- Intelligence Tools: Free-for.dev (FD), OSINT4ALL (OS), Open Alternative (OA), No Signups (NS), Best Free AI Websites (BF).
-
-=== OPERATIONAL DIRECTIVES & ZERO-PLACEHOLDER MANDATE ===
-1. ABSOLUTE COMPLETION: Produce 100% complete, fully executed, production-ready deliverables (code, outbound email campaigns, financial reconciliations, client workflow audits, and architectural specifications). Never use placeholders, brackets, TODOS, or truncated responses. Write every operational directive completely so it never requires recurring updates.
-2. EXECUTIVE CHECKPOINT PROTOCOL: Route only two types of decisions to Founder & CEO Terry Williams:
-   a. Final delivery authorization for client builds/proposals.
-   b. Legal/binding contracts and high-value treasury movements above $5,000.
-3. EXECUTIVE OUTCOME DELIVERY: Present all completed tasks with a concise executive summary followed by instant handoff links, code blocks, or communication text ready for single-click deployment.
-
-=== VERTICAL & HORIZONTAL INTEGRATION DIRECTIVES ===
-- VERTICAL INTEGRATION: Systematically eliminate third-party SaaS dependencies by generating self-hosted scripts, custom API wrappers, and proprietary prompt packages across intake, processing, and delivery layers.
-- HORIZONTAL INTEGRATION: When a custom automation or workflow script is created for one target vertical (e.g., CPA Practices), immediately generate re-skinned deployment variants for adjacent verticals (General Contractors, Fleet Logistics, Professional Offices) to scale cash flow across multiple industries at zero marginal development cost.
-
-=== SYSTEM WORKFLOW ENGINES ===
-
-ENGINE 1: OUTBOUND SALES & ACQUISITION PIPELINE
-- Target Verticals: Commercial General Contractors, Multi-Partner CPA Practices, Regional Logistics & Dispatchers, Local Professional Offices.
-- Core Offer: "7-Day Efficiency Audit ($497) — We audit 3 administrative bottlenecks, build 1 custom automation in 7 days, and guarantee a 5x return in saved billable hours or $0 paid."
-- Execution: Generate personalized, highly targeted 3-stage cold email sequences, LinkedIn outreach drafts, and diagnostic intake call scripts tailored precisely to prospect operational data.
-
-ENGINE 2: CLIENT INTAKE & SYSTEM DELIVERY ARCHITECTURE
-- Stage 1 ($497 Audit): Parse intake forms, map workflow bottlenecks, identify manual data entry points, and draft custom automation architecture specs.
-- Stage 2 ($3,500 Pilot): Write full production code (Python/Zapier/Make/REST APIs) for Accounts Payable reconciliation, OCR receipt matching, and client onboarding pipelines.
-- Stage 3 ($1,997/mo Retainer): Generate automated API monitoring, uptime verification, monthly operational efficiency reports, and exception logging routines.
-- Stage 4 ($97-$297 Digital Storefront): Convert proven automation scripts into standalone, downloadable process guides, prompt packs, and reusable modules.
-
-ENGINE 3: AUTOMATED TREASURY & CAPITAL ALLOCATION
-- Gross Revenue Rule: Automatically process incoming gross receipts through Stripe API rules:
-  1. Deduct 25% immediately to dedicated Tax Escrow Account.
-  2. Deduct direct software, API compute, and infrastructure overhead costs.
-- Net Free Cash Flow (100% Net Profit) Routing Rule:
-  * Track A (40%): Execute weekly Kraken API DCA spot buy for Bitcoin; trigger monthly calendar alert for cold storage sweep (air-gapped Tails Linux / steel BIP-39).
-  * Track B (50%): Allocate to Public.com Reserve (40% SGOV/USFR Treasuries, 30% SCHD Dividend Growth, 15% MAIN BDC, 15% O Commercial REIT).
-  * Track C (10%): Allocate to Strategic Community Fund (Twelfth Step House, Entrepreneur Fund, Code Savvy). Explicit Rule: If monthly net earnings equal $0, Track C allocation equals $0.
-
-ENGINE 4: GOVERNANCE, LEDGER & COMPLIANCE
-- Enforce the Daily 3-Minute Reconciliation Ledger: Format every incoming invoice, operating expense, tax reserve, and net cash split into standard double-entry ledger lines at the end of each daily cycle.
-- Enforce Operational Rules:
-  a. Top-2 Focus Constraint: Limit daily executive priorities to 2 revenue-generating or delivery-critical tasks.
-  b. 24-Hour Friction Buffer: Draft polished, non-emotional holding responses for high-friction or non-critical communications to delay response time by 24 hours.
-
-=== SYSTEM INITIALIZATION ===
-UPON INPUT OF ANY OPERATIONAL TASK, CLIENT INTAKE, FINANCIAL TRANSACTION, OR OUTBOUND REQUEST, IMMEDIATELY EXECUTE THE CORRESPONDING ENGINE END-TO-END AND RETURN THE FINAL, PRODUCTION-READY OUTPUT.
-```
-
----
-
-# Operating Principles
-
-## 01 · Clear Technology Roles
-
-Every technology platform has a defined operational purpose.
-
-Technology supports execution without replacing executive governance.
-
-## 02 · Standardized Delivery
-
-Proven workflows should become:
-
-* Templates
-* Scripts
-* APIs
-* Prompt packages
-* Reusable modules
-* Deployment patterns
-
-## 03 · Margin Discipline
-
-Revenue should be evaluated against:
-
-* Direct delivery costs
-* Operating overhead
-* Tax obligations
-* Net free cash flow
-
-Gross revenue alone is not the operating metric.
-
-## 04 · Cross-Sector Reuse
-
-Automation developed for one target vertical should be adapted where commercially and technically appropriate.
-
-## 05 · Executive Control
-
-Automation can execute authorized procedures.
-
-Material decisions remain under Founder & CEO authority.
-
----
-
-# Security & Governance
-
-This repository contains corporate operating architecture and system prompts.
-
-## Never Commit
-
-```text
-API KEYS
-PRIVATE KEYS
-BITCOIN SEED PHRASES
-WALLET RECOVERY MATERIAL
-PAYMENT CREDENTIALS
-DATABASE PASSWORDS
-CUSTOMER PII
-PRODUCTION TOKENS
-AUTHENTICATION SECRETS
-.env FILES
-```
-
-## Recommended Security Controls
-
-* Store secrets in environment variables or a dedicated secrets manager.
-* Never commit API keys or private credentials.
-* Never commit Bitcoin seed phrases or wallet recovery material.
-* Use least-privilege API credentials.
-* Maintain audit logs.
-* Separate development, testing, and production environments.
-* Require appropriate review before enabling automated financial transactions.
-* Maintain secure backups of critical configuration and recovery material.
-
-## Recommended `.gitignore`
-
-```gitignore
-# Environment
-.env
-.env.*
-*.env
-
-# Secrets
-secrets/
-credentials/
-*.pem
-*.key
-*.secret
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-env/
-
-# Local databases
-*.db
-*.sqlite
-*.sqlite3
-
-# Local data
-*.csv
-
-# Logs
-*.log
-logs/
-
-# Operating system
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*.temp
-```
-
----
-
-# Repository Status
-
-<p align="center">
-
-[![Status](https://img.shields.io/badge/Repository-Active-2EA44F?style=for-the-badge)](#)
-[![Operating Model](https://img.shields.io/badge/Model-Single--Member-0B1F33?style=for-the-badge)](#operating-model)
-[![AI](https://img.shields.io/badge/AI-Enabled-6C47FF?style=for-the-badge)](#technology-stack)
-[![Automation](https://img.shields.io/badge/Automation-Core-0078D4?style=for-the-badge)](#automation-architecture)
-
-</p>
-
-| Property                   | Value                                                                   |
-| -------------------------- | ----------------------------------------------------------------------- |
-| **Organization**           | MN Global Investment Holdings, LLC                                      |
-| **Operating Model**        | Single-Member / AI-Enabled                                              |
-| **Primary Focus**          | Automation · Revenue Operations · Service Delivery · Capital Allocation |
-| **Documentation Standard** | Markdown                                                                |
-| **Repository Type**        | Corporate Operating Blueprint                                           |
-| **Maintainer**             | MN Global Investment Holdings, LLC                                      |
-
----
-
-# Documentation
-
-This README functions as the primary high-level documentation layer for the MN Global operating architecture.
-
-Detailed implementation materials may be maintained separately as:
-
-```text
-/docs
-/scripts
-/automation
-/prompts
-/workflows
-/config
-/reports
-```
-
-Recommended documentation hierarchy:
-
-```text
-README.md
-│
-├── Corporate Profile
-├── Technology Stack
-├── AI Architecture
-├── Automation Architecture
-├── Revenue Pipeline
-├── Treasury Framework
-│
-├── Hermes
-│   └── System Control
-│
-├── MAOCS
-│   └── Interactive Operations
-│
-└── Security & Governance
-```
-
----
-
-# Disclaimer
-
-> This README documents the supplied corporate operating framework. It is not legal, tax, accounting, investment, cybersecurity, or financial advice.
->
-> Automated systems should be appropriately validated and authorized before being connected to production accounts, payment systems, financial platforms, client environments, or other systems capable of creating financial, legal, operational, or security consequences.
-
----
-
-<p align="center">
-
-<strong>MN GLOBAL INVESTMENT HOLDINGS, LLC</strong>
+### AI Technology Stack • Automation Architecture • Operating Framework
 
 <br>
 
-<sub>Technology · Automation · Revenue Operations · Capital Discipline</sub>
+![Corporate Blueprint](https://img.shields.io/badge/CORPORATE-BLUEPRINT-111827?style=for-the-badge)
+
+![AI Powered](https://img.shields.io/badge/AI-POWERED-2563EB?style=for-the-badge)
+
+![Automation](https://img.shields.io/badge/AUTOMATION-ENABLED-059669?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/MARKDOWN-DOCUMENTATION-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-16A34A?style=for-the-badge)
 
 <br><br>
 
-<sub>Corporate Operating Blueprint</sub>
+**A single-operator corporate system integrating AI, automation, technology, capital management, and repeatable operating procedures.**
 
-</p>
+</div>
 
 ---
 
-© MN Global Investment Holdings, LLC. All rights reserved.
+# TABLE OF CONTENTS
 
+* [1. Corporate Overview](#1-corporate-overview)
+* [2. Operating Model](#2-operating-model)
+* [3. Technology Architecture](#3-technology-architecture)
+* [4. AI Executive Architecture](#4-ai-executive-architecture)
+* [5. Automation Architecture](#5-automation-architecture)
+* [6. Revenue & Product Pipeline](#6-revenue--product-pipeline)
+* [7. Treasury & Capital Allocation](#7-treasury--capital-allocation)
+* [8. Hermes Agent](#8-hermes-agent)
+* [9. MAOCS Operating System](#9-maocs-operating-system)
+* [10. Operating Principles](#10-operating-principles)
+* [11. Security & Governance](#11-security--governance)
+* [12. Documentation Structure](#12-documentation-structure)
+* [13. Repository Status](#13-repository-status)
+* [14. Disclaimer](#14-disclaimer)
+
+---
+
+# 1. CORPORATE OVERVIEW
+
+## Company Profile
+
+| Category                        | Details                            |
+| ------------------------------- | ---------------------------------- |
+| **Legal Entity**                | MN Global Investment Holdings, LLC |
+| **Structure**                   | Single-Member LLC / Pass-Through   |
+| **Owner / Operator**            | Terry Williams                     |
+| **Formation**                   | Minnesota — 2013                   |
+| **Operating Model**             | Solo Operator + AI Systems         |
+| **Corporate HQ**                | Memphis                            |
+| **Compliance Rhythm**           | Recurring / Continuous             |
+| **Capital Infrastructure**      | Stripe • Kraken • Public.com       |
+| **Primary Operating Principle** | AI assists. Owner decides.         |
+
+---
+
+## Corporate Mission
+
+MN Global operates as a **lean, technology-enabled investment and operating company** designed around:
+
+* Artificial intelligence
+* Workflow automation
+* Software and open-source tools
+* Public procurement
+* Professional services
+* Capital allocation
+* Repeatable operating procedures
+* Long-term treasury management
+
+The company is intentionally structured around a **single human decision-maker supported by specialized AI systems**.
+
+---
+
+# 2. OPERATING MODEL
+
+## The Solo Operator Model
+
+MN Global does not operate around traditional departments.
+
+There is:
+
+* No executive suite
+* No internal departments
+* No unnecessary organizational layers
+* No AI authority over corporate decisions
+
+Instead:
+
+```text
+                         MN GLOBAL
+                             │
+                    ┌────────▼────────┐
+                    │  TERRY WILLIAMS │
+                    │ OWNER / OPERATOR │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+        ┌─────▼─────┐  ┌─────▼─────┐  ┌─────▼─────┐
+        │ AI SYSTEMS│  │ AUTOMATION│  │  CAPITAL  │
+        │ Research  │  │ Execution │  │ Treasury  │
+        │ Drafting  │  │ Monitoring│  │ Allocation│
+        │ Checking  │  │ Reporting │  │ Reserves  │
+        └───────────┘  └───────────┘  └───────────┘
 ```
 
-**This is the direction I recommend.** It will look substantially more like a serious corporate/technology organization on GitHub rather than a pasted operating document.
+### Core Rule
 
-One important distinction: **the badges are real Shields.io badges**, so once this is pasted into GitHub, GitHub will render the actual badge graphics rather than showing the Markdown source. The repository-specific badges such as build status, releases, stars, issues, and coverage should only be added once those actual repository components exist.
+> **AI tools research, draft, check, execute defined procedures, and remind. The owner decides.**
+
+No AI system independently:
+
+* Approves money
+* Signs contracts
+* Creates legal commitments
+* Makes binding corporate decisions
+* Executes high-value treasury movements without authorization
+
+---
+
+# 3. TECHNOLOGY ARCHITECTURE
+
+MN Global's technology stack is organized into functional modules.
+
+---
+
+## 3.1 AI WORKBENCH
+
+| Platform           | Primary Function                      |
+| ------------------ | ------------------------------------- |
+| **Claude**         | CEO / Governance                      |
+| **Gemini Pro**     | CIO / Technical Intelligence          |
+| **AI Studio**      | AI Development                        |
+| **ChatGPT**        | Reasoning / Backup Thinking Partner   |
+| **Grok**           | CMO / Visibility                      |
+| **Perplexity Pro** | CRO / Research & Revenue Intelligence |
+| **Google Colab**   | Data / Python Workbench               |
+
+---
+
+## 3.2 CREATIVE SYSTEMS
+
+| Platform               | Function          |
+| ---------------------- | ----------------- |
+| **Microsoft Designer** | Visual creation   |
+| **Leonardo.ai**        | Generative design |
+
+---
+
+## 3.3 CAPITAL SYSTEMS
+
+| Platform       | Function                               |
+| -------------- | -------------------------------------- |
+| **Public.com** | Securities / Investment Infrastructure |
+| **Kraken**     | Digital Asset Infrastructure           |
+| **Stripe**     | Payments / Revenue Collection          |
+
+---
+
+## 3.4 OPERATIONS
+
+| Platform     | Function                      |
+| ------------ | ----------------------------- |
+| **GitHub**   | Source Control / Distribution |
+| **NeetoCal** | Scheduling                    |
+| **LinkedIn** | Professional Distribution     |
+
+---
+
+## 3.5 RESOURCE VAULT
+
+The Resource Vault contains:
+
+* SOPs
+* Prompts
+* Templates
+* Corporate documentation
+* Automation specifications
+* Client materials
+* Treasury procedures
+* Governance records
+
+---
+
+# 4. AI EXECUTIVE ARCHITECTURE
+
+MN Global uses a distributed AI executive model.
+
+```text
+                    AI EXECUTIVE SUITE
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+   ┌────▼────┐        ┌────▼────┐        ┌────▼────┐
+   │ CLAUDE  │        │PERPLEXITY│       │ GEMINI  │
+   │   CEO   │        │   CRO    │       │   CIO   │
+   └─────────┘        └─────────┘        └─────────┘
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           │
+                      ┌────▼────┐
+                      │  GROK   │
+                      │   CMO   │
+                      └─────────┘
 ```
+
+### Executive Roles
+
+| AI Executive       | Role | Primary Responsibility           |
+| ------------------ | ---- | -------------------------------- |
+| **Claude**         | CEO  | Governance / Strategic Oversight |
+| **Perplexity Pro** | CRO  | Research / Revenue Intelligence  |
+| **Gemini Pro**     | CIO  | Technology / Systems             |
+| **Grok**           | CMO  | Marketing / Visibility           |
+
+---
+
+# 5. AUTOMATION ARCHITECTURE
+
+MN Global uses a dual-prompt operating framework.
+
+## Two-System Model
+
+```text
+┌────────────────────────────────────────────────────┐
+│                  MN GLOBAL SYSTEM                   │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│   HERMES AGENT                                     │
+│   Background / System Execution                    │
+│                                                    │
+│   • Code                                           │
+│   • Scrapers                                       │
+│   • Webhooks                                       │
+│   • Stripe Triggers                                │
+│   • Automation                                     │
+│   • Self-Healing                                   │
+│   • Logs                                           │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│   MAOCS                                            │
+│   Manual / Interactive AI Runner                   │
+│                                                    │
+│   • Deliverables                                   │
+│   • Outbound Communications                        │
+│   • Client Intake                                  │
+│   • Treasury Rules                                 │
+│   • Governance                                     │
+│   • Executive Checkpoints                          │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+## Automation Rule
+
+> **No automation without a written Standard Operating Procedure.**
+
+The operating sequence is:
+
+```text
+DEFINE
+   ↓
+DOCUMENT
+   ↓
+TEST
+   ↓
+AUTHORIZE
+   ↓
+AUTOMATE
+   ↓
+MONITOR
+   ↓
+IMPROVE
+```
+
+---
+
+# 6. REVENUE & PRODUCT PIPELINE
+
+MN Global's commercial model combines reusable digital products, professional services, and public procurement.
+
+## Service & Product Pipeline
+
+| Offer                                |          Price | Model               |
+| ------------------------------------ | -------------: | ------------------- |
+| **7-Day Efficiency Audit**           |           $497 | Productized Service |
+| **AP & Intake System Deployment**    |         $3,500 | Implementation      |
+| **Managed Autonomous Engine**        | $1,997 / month | Recurring           |
+| **Reusable Workflow Modules**        |       $97–$297 | Digital Product     |
+| **Sovereign Infrastructure Program** | $7,500–$15,000 | Premium Program     |
+| **Public Procurement**               |  Under $25,000 | Micro-Contract      |
+
+---
+
+## Revenue Channels
+
+### Channel A — Free Tools
+
+Build practical tools once and make them broadly useful.
+
+Examples:
+
+* Data Sanitizer
+* Local-First Invoice Generator
+* State RFP Feed Aggregator
+* Procurement Trackers
+* Invoice Templates
+* Data Cleanup Utilities
+
+Potential monetization:
+
+```text
+FREE TOOL
+   ↓
+PUBLIC DISTRIBUTION
+   ↓
+UTILITY
+   ↓
+AUDIENCE
+   ↓
+SPONSORSHIP / SERVICES
+```
+
+---
+
+### Channel B — Public Procurement
+
+Primary target:
+
+> **Micro-contract opportunities under $25,000.**
+
+Procurement workflow:
+
+```text
+DEFINE ICP
+   ↓
+DEFINE BID / NO-BID RULE
+   ↓
+FIND QUALIFIED OPPORTUNITIES
+   ↓
+SCORE OPPORTUNITIES
+   ↓
+SELECT TOP 1–2
+   ↓
+PROPOSAL
+   ↓
+SUBMISSION
+   ↓
+FOLLOW-UP
+   ↓
+CAPTURE SOP
+```
+
+### Procurement Qualification
+
+Before spending significant time researching opportunities, define:
+
+* Acceptable work types
+* Minimum contract value
+* Maximum contract value
+* Geography
+* Delivery requirements
+* Capability requirements
+* Deadline requirements
+* Bid/no-bid criteria
+
+---
+
+# 7. TREASURY & CAPITAL ALLOCATION
+
+Treasury allocation occurs **after operating expenses and tax escrow**.
+
+## Free Cash Flow Sequence
+
+```text
+REVENUE
+   ↓
+OPERATING EXPENSES
+   ↓
+NET FREE CASH FLOW
+   ↓
+25% TAX ESCROW
+   ↓
+CAPITAL ALLOCATION
+```
+
+---
+
+## Treasury Allocation
+
+### Track A — Bitcoin
+
+**40%**
+
+Long-term Bitcoin accumulation.
+
+---
+
+### Track B — Reserves
+
+**50%**
+
+| Allocation  | Percentage |
+| ----------- | ---------: |
+| SGOV / USFR |        40% |
+| SCHD        |        30% |
+| MAIN        |        15% |
+| O           |        15% |
+
+---
+
+### Track C — Community
+
+**10%**
+
+Community-oriented capital allocation.
+
+If net monthly earnings are zero:
+
+> **Track C = 0**
+
+---
+
+## Treasury Principle
+
+> **Do not automate the treasury split before revenue is flowing.**
+
+Optimize the revenue source before optimizing the plumbing.
+
+---
+
+# 8. HERMES AGENT
+
+Hermes is the background/system execution layer.
+
+## Primary Responsibilities
+
+* Automation
+* Code execution
+* Web scraping
+* Webhooks
+* Stripe triggers
+* System monitoring
+* Self-healing
+* Logging
+* Scheduled processes
+* File management
+* Operational reporting
+
+---
+
+## Hermes Operating Directives
+
+```text
+1. Execute only defined procedures.
+
+2. Do not invent business policy.
+
+3. Do not approve money movement.
+
+4. Do not sign contracts.
+
+5. Log meaningful system actions.
+
+6. Escalate decisions requiring owner authorization.
+
+7. Follow written SOPs.
+
+8. Preserve operational state.
+
+9. Report exceptions.
+
+10. Stop when authorization is required.
+```
+
+---
+
+## Hermes Environment
+
+Example operating paths:
+
+```text
+/home/alex/leads/prospects.csv
+
+/home/alex/scripts/webhook_receiver.py
+
+/home/alex/clients/[client_name]
+
+~/.hermes/skills/[skill_name].md
+
+~/treasury_split.py
+
+/home/alex/reports/daily_summary.md
+```
+
+---
+
+# 9. MAOCS OPERATING SYSTEM
+
+MAOCS is the manual and interactive AI operating layer.
+
+## MAOCS Engines
+
+### Engine 1 — Outbound Sales
+
+Handles:
+
+* Prospect research
+* Sales drafts
+* Outreach preparation
+* Follow-ups
+* Pipeline organization
+
+---
+
+### Engine 2 — Client Intake & Delivery
+
+Handles:
+
+* Client intake
+* Requirements
+* Delivery preparation
+* Workflow configuration
+* Deliverable drafting
+* Quality checks
+
+---
+
+### Engine 3 — Treasury
+
+Handles:
+
+* Treasury calculations
+* Allocation preparation
+* Capital reporting
+* Rule verification
+
+Final authority remains with the owner.
+
+---
+
+### Engine 4 — Governance
+
+Handles:
+
+* Ledger procedures
+* Compliance checks
+* Corporate records
+* SOP enforcement
+* Executive checkpoints
+
+---
+
+## Executive Checkpoints
+
+Owner authorization is required for:
+
+* Final delivery authorization
+* Legal / binding contracts
+* High-value treasury movements
+* Treasury movements greater than $5,000
+* Material changes to corporate policy
+
+---
+
+## MAOCS Operating Rules
+
+### Zero-Placeholder Rule
+
+Deliverables should not be released with unresolved placeholders.
+
+### Top-2 Focus Rule
+
+Prioritize the two highest-value actions rather than creating unnecessary task volume.
+
+### 24-Hour Friction Buffer
+
+Important actions receive a deliberate review window when appropriate.
+
+---
+
+# 10. OPERATING PRINCIPLES
+
+## Principle 01 — Simplify
+
+> Make everything simplified, demystified, easy, and minimalistic.
+
+---
+
+## Principle 02 — Owner Authority
+
+AI assists.
+
+The owner decides.
+
+---
+
+## Principle 03 — SOP Before Automation
+
+No recurring automation should exist without a documented procedure.
+
+---
+
+## Principle 04 — Revenue Before Optimization
+
+Revenue generation takes priority over unnecessary infrastructure optimization.
+
+---
+
+## Principle 05 — Focus
+
+Do the highest-value work first.
+
+Avoid building systems merely because they can be built.
+
+---
+
+## Principle 06 — Repeatability
+
+Every successful recurring activity should become a documented process.
+
+---
+
+## Principle 07 — Auditability
+
+Important actions should leave a useful record.
+
+---
+
+# 11. SECURITY & GOVERNANCE
+
+## Core Controls
+
+* Owner authorization
+* Written SOPs
+* Access control
+* Operational logs
+* Treasury separation
+* Contract review
+* Compliance tracking
+* Exception escalation
+* No autonomous binding decisions
+
+---
+
+## `.gitignore`
+
+Sensitive information should never be committed to the repository.
+
+Recommended exclusions:
+
+```gitignore
+.env
+.env.*
+*.key
+*.pem
+*.secret
+secrets/
+credentials/
+tokens/
+private/
+*.sqlite
+*.db
+```
+
+---
+
+## Security Principle
+
+> **Code may automate a decision that has already been defined. It may not create the decision.**
+
+---
+
+# 12. DOCUMENTATION STRUCTURE
+
+Recommended repository structure:
+
+```text
+MN-GLOBAL/
+│
+├── README.md
+│
+├── docs/
+│   ├── corporate/
+│   │   ├── blueprint.md
+│   │   ├── governance.md
+│   │   └── compliance.md
+│   │
+│   ├── ai/
+│   │   ├── executive-suite.md
+│   │   ├── hermes.md
+│   │   └── maocs.md
+│   │
+│   ├── operations/
+│   │   ├── sop-index.md
+│   │   ├── client-intake.md
+│   │   └── delivery.md
+│   │
+│   ├── procurement/
+│   │   ├── qualification.md
+│   │   ├── bid-no-bid.md
+│   │   └── proposal-framework.md
+│   │
+│   └── treasury/
+│       ├── treasury-policy.md
+│       └── allocation-rules.md
+│
+├── tools/
+│   ├── data-sanitizer/
+│   ├── invoice-generator/
+│   └── rfp-feed-aggregator/
+│
+├── scripts/
+│   ├── automation/
+│   ├── webhooks/
+│   └── reporting/
+│
+├── clients/
+│
+└── reports/
+```
+
+---
+
+# 13. REPOSITORY STATUS
+
+<div align="center">
+
+![Architecture](https://img.shields.io/badge/ARCHITECTURE-AI%20ENABLED-2563EB?style=for-the-badge)
+
+![Automation](https://img.shields.io/badge/AUTOMATION-SOP%20DRIVEN-059669?style=for-the-badge)
+
+![Procurement](https://img.shields.io/badge/PROCUREMENT-MICRO%20CONTRACTS-F59E0B?style=for-the-badge)
+
+![Treasury](https://img.shields.io/badge/TREASURY-RULE%20BASED-7C3AED?style=for-the-badge)
+
+![Governance](https://img.shields.io/badge/GOVERNANCE-OWNER%20CONTROLLED-DC2626?style=for-the-badge)
+
+</div>
+
+### Current Strategic Priority
+
+```text
+1. REVENUE PIPELINE
+        ↓
+2. QUALIFIED OPPORTUNITIES
+        ↓
+3. PROPOSALS / SALES
+        ↓
+4. REVENUE
+        ↓
+5. REPEATABLE DELIVERY
+        ↓
+6. AUTOMATION
+        ↓
+7. TREASURY OPTIMIZATION
+```
+
+> **Revenue first. Automation second. Treasury optimization after cash flow is proven.**
+
+---
+
+# 14. DISCLAIMER
+
+This repository is an operational and technology blueprint for MN Global Investment Holdings, LLC.
+
+It is not:
+
+* Legal advice
+* Tax advice
+* Investment advice
+* A guarantee of revenue
+* A guarantee of contract awards
+* A substitute for professional advisors where required
+
+The owner retains final authority over corporate, legal, financial, contractual, and strategic decisions.
+
+---
+
+<div align="center">
+
+## MN GLOBAL INVESTMENT HOLDINGS, LLC
+
+**AI-Enabled • Solo Operator • Systems Driven**
+
+<br>
+
+![Corporate Blueprint](https://img.shields.io/badge/MN_GLOBAL-CORPORATE_BLUEPRINT-111827?style=for-the-badge)
+
+![Owner Controlled](https://img.shields.io/badge/DECISIONS-OWNER_CONTROLLED-2563EB?style=for-the-badge)
+
+![SOP Driven](https://img.shields.io/badge/OPERATIONS-SOP_DRIVEN-059669?style=for-the-badge)
+
+<br><br>
+
+**Research • Draft • Check • Automate • Decide**
+
+</div>
