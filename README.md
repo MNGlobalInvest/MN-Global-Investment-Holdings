@@ -1,64 +1,30 @@
-# MN Global Investment Holdings LLC
+# MN Global Investment Holdings, LLC
+> **Master Corporate Operating System & Dual-Prompt Framework**
 
-<p align="center">
-  <b>A single-operator, AI-executed holding company operating with zero employees[cite: 1].</b>
-</p>
-
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-  <a href="https://github.com/sponsors/MNGlobalInvest"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa.svg" alt="GitHub Sponsors"></a>
-  <a href="https://opencollective.com/mn-global"><img src="https://img.shields.io/badge/Open%20Collective-Sponsor-blue.svg" alt="Open Collective"></a>
-  <img src="https://img.shields.io/badge/Model-AI%20Augmented-blueviolet.svg" alt="AI Augmented">
-  <img src="https://img.shields.io/badge/State-Minnesota-blue.svg" alt="State of Establishment">
-</p>
+**Legal Entity:** Single-Member LLC (Minnesota Incorporated 2013 | Good Standing Active)  
+**Operations HQ:** 539 E McLemore Ave, # 5, Memphis, TN 38106  
+**Sole Founder & CEO:** Terry Williams  
+**Registered Agent:** Minnesota Registered Agent Services LLC  
+**Direct Contact:** (218) 322-9415 | mnsuperinvestors@gmail.com  
+**Compliance:** SAM.gov Active | CAGE Code Validated  
 
 ---
 
-## Company at a Glance
-
-* **Operating Division**: MN Global Technology Intelligence[cite: 1]
-* **Founded**: 2013 | Established in Minnesota, Headquartered in Memphis, Tennessee[cite: 1]
-* **Founder & CEO**: Terry Williams[cite: 1]
-* **Operating Model**: Remote-first, AI-augmented, 15-hour workweek[cite: 1]
-* **Core Channels**: Open-source tool network (GitHub/Sponsors) & State procurement contracts (Minnesota SWIFT)[cite: 1]
+## ── System Architecture
+MN Global Investment Holdings operates via a **Dual-Prompt Operating Architecture**:
+1. **Hermes Agent (Prompt 1):** Autonomous background controller for server management, webhook triggers, continuous code maintenance, and operational log routines.
+2. **MAOCS Engine (Prompt 2):** Master operational control system powering AI Workbench tasks across Claude, Gemini, Google AI Studio, and ChatGPT.
 
 ---
 
-## Core Technology Stack & AI Staff
-
-The business operates entirely through an AI-augmented command console managed directly by the Founder, coordinated by Claude as Chief Executive Officer[cite: 1].
-
-| Role | Platform | Mandate |
-| :--- | :--- | :--- |
-| **Chief Executive Officer / Chief Architect** | Claude (Anthropic)[cite: 1] | Systems architecture, SOPs, governance, and procurement drafting[cite: 1] |
-| **Chief Revenue Officer / Market Intelligence** | Perplexity Pro[cite: 1] | Revenue scouting, Minnesota SWIFT RFP tracking, and demand signals[cite: 1] |
-| **Chief Information Officer / Data Auditor** | Gemini Pro (Google)[cite: 1] | Data validation, schema checks, and daily treasury audit[cite: 1] |
-| **Chief Marketing Officer / Growth** | Grok (xAI)[cite: 1] | Distribution, visibility, and audience growth for open-source tools[cite: 1] |
+## ── Authorised Tech Stack
+* **AI Workbench:** Claude (CL), Gemini Pro (GO), Google AI Studio (AI), ChatGPT (GP), Grok (GK), Perplexity (PX), Colab (CB)
+* **Creative Studio:** Microsoft Designer (MD), Leonardo.ai (LN)
+* **Capital & Markets:** Public.com (PB), Kraken (KR), Stripe (ST)
+* **Operations & Infrastructure:** GitHub (GH), NeetoCal (NC), LinkedIn (LI)
+* **Resource Vault:** Free-for.dev (FD), OSINT4ALL (OS), Open Alternative (OA), No Signups (NS), Best Free AI Websites (BF)
 
 ---
 
-## Revenue Pipeline
-
-### Channel A: Open-Source Tool Network
-Twenty free, self-contained tools published on GitHub at zero hosting cost[cite: 1]. Funded entirely through voluntary sponsorships via GitHub Sponsors and Open Collective[cite: 1]. 
-* *Featured Tools*: Data Sanitizer & PII Redactor, Local-First Invoice Generator, State RFP Feed Aggregator, Password & Secret Generator[cite: 1].
-
-### Channel B: State Procurement Contracts
-Active Minnesota SWIFT Supplier ID mapped to data processing, software services, and technical analytics[cite: 1]. Managed via automated portal scanning and precise proposal execution[cite: 1].
-
----
-
-## The 3-6-9 Treasury Loop
-
-Every dollar earned moves through a strict 24-hour cycle, closing with a daily sweep at 00:00 UTC[cite: 1]:
-* **Tranche 1 (30%)**: Routed to a Donor-Advised Fund (Schwab/Fidelity) supporting community philanthropy, with addiction recovery in Duluth (Recovery Alliance Duluth) as the primary focus[cite: 1].
-* **Tranche 2 (60%)**: Retained as core treasury and infrastructure reserves[cite: 1].
-* **Tranche 3 (10%)**: Reserved for compute and operating liquidity[cite: 1].
-
----
-
-## Security & Custody
-* **Air-Gapped Vault**: All key generation and sensitive operations run inside an isolated Tails Linux environment on an air-gapped USB[cite: 1].
-* **Cold Storage**: Single-key BIP-39 wallet with a steel-stamped backup and zero digital or cloud copies[cite: 1].
-
----
+## ── Treasury & Capital Allocation Protocol
+Capital splits operate strictly on **Net Free Cash Flow (Net Profit)** following operational overhead and a **25% Tax Escrow Sweep**.
