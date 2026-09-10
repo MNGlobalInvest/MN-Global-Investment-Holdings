@@ -34,7 +34,7 @@
 
 * [1. Corporate Overview](#1-corporate-overview)
 * [2. Operating Model & Philosophy](#2-operating-model--philosophy)
-* [3. Technology Architecture & Integration](#3-technology-architecture--integration)
+* [3. Technology Architecture & Rules](#3-technology-architecture--rules)
 * [4. Products & Services Matrix](#4-products--services-matrix)
 * [5. Sales Pipeline & Cold Outreach](#5-sales-pipeline--cold-outreach)
 * [6. Procurement Execution Workflow](#6-procurement-execution-workflow)
@@ -82,9 +82,9 @@ The company is intentionally structured around a **single human decision-maker s
 
 # 2. OPERATING MODEL & PHILOSOPHY
 
-## Maximum Leverage via Hermes
+## Operating Philosophy: Maximum Leverage via Hermes
 
-MN Global is structured as a streamlined, single-operator enterprise where the **Hermes Autonomous Agent** serves as the central digital driver for research, lead generation, client delivery workflows, code maintenance, and treasury reporting.
+MN Global Investment Holdings, LLC is structured as a streamlined, single-operator enterprise where the **Hermes Autonomous Agent** serves as the central digital driver for research, lead generation, client delivery workflows, code maintenance, and treasury reporting.
 
 All company memory, pipeline states, client records, and daily operating logs are maintained in standardized local file architectures managed autonomously by Hermes, with direct reporting generated for Terry Williams.
 
