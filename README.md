@@ -20,7 +20,8 @@ $$\text{Free Cash Flow (FCF)} = \text{Revenue} - \text{Fixed Delivery Costs} - \
 $$\text{Solo Founder (Terry Williams)} + \text{Productized Systems} = \text{Enterprise-Grade Operations}$$
 
 ### 3. The Treasury Allocation Loop
-$$\text{Service FCF} \longrightarrow \begin{cases} \text{Operating Reserve} & (30\%) \\ \text{Bitcoin DCA \& Dip Fund} & (\$115/\text{mo}) \\ \text{Dividend Equity Portfolio} & (\$60/\text{mo}) \\ \text{Owner Distribution} & (\text{Remainder}) \end{cases}$$
+
+$$\text{Service FCF} \longrightarrow \left\{ \begin{array}{ll} \text{Operating Reserve} & \text{(30\%)} \\ \text{Bitcoin DCA \& Dip Fund} & \text{(\$115/mo)} \\ \text{Dividend Equity Portfolio} & \text{(\$60/mo)} \\ \text{Owner Distribution} & \text{(Remainder)} \end{array} \right.$$
 
 ---
 
