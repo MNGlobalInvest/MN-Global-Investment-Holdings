@@ -21,7 +21,11 @@ $$\text{Solo Founder (Terry Williams)} + \text{Productized Systems} = \text{Ente
 
 ### 3. The Treasury Allocation Loop
 
-$$\text{Service FCF} \longrightarrow \left\{ \begin{array}{ll} \text{Operating Reserve} & \text{(30\%)} \\ \text{Bitcoin DCA \& Dip Fund} & \text{(\$115/mo)} \\ \text{Dividend Equity Portfolio} & \text{(\$60/mo)} \\ \text{Owner Distribution} & \text{(Remainder)} \end{array} \right.$$
+**Service Free Cash Flow (FCF) Allocation Engine:**
+* **Operating Reserve:** 30% of total Service FCF
+* **Bitcoin DCA & Dip Fund:** $115 / month
+* **Dividend Equity Portfolio:** $60 / month
+* **Owner Distribution:** Remainder of Net Cash Flow
 
 ---
 
@@ -98,72 +102,3 @@ $$\text{Service FCF} \longrightarrow \left\{ \begin{array}{ll} \text{Operating R
 ## Section 4: Treasury Management & Asset Allocation
 
 Excess free cash flow generated from MN Global Revenue Operations is systematically directed into a dual-engine capital allocation structure: Digital Assets (Bitcoin) and Dividend-Generating Equities.
-
-              +--------------------------------+
-              |  MN GLOBAL REVENUE OPERATIONS  |
-              |     (Operating Cash Flow)      |
-              +---------------+----------------+
-                              |
-                              v
-              +--------------------------------+
-              |   BUSINESS CHECKING & TAXES    |
-              +---------------+----------------+
-                              |
-             +----------------+----------------+
-             |                                 |
-             v                                 v
-+------------------------------+  +------------------------------+
-|    BITCOIN TREASURY PLAN     |  |   INCOME PORTFOLIO SYSTEM    |
-|     ($115/mo allocation)     |  |     ($60/mo allocation)      |
-+--------------+---------------+  +--------------+---------------+
-|                                 |
-+--------+--------+               +--------+--------+
-|                 |               |                 |
-v                 v               v                 v
-+-----------+     +-----------+   +-----------+     +-----------+
-| Weekly    |     | Crash     |   | Equity    |     | Reserve   |
-| DCA ($25) |     | Reserve   |   | Income    |     | Liquidity |
-|  [Kraken] |     |  ($15)    |   |  [Public] |     |  [Public] |
-+-----------+     +-----------+   +-----------+     +-----------+
-
-
-### Part A: 5-Year Bitcoin Accumulation Engine
-
-#### 1. Monthly Allocation ($115 Total)
-* **Weekly DCA ($100/mo):** Buy $25 of BTC every week on Kraken regardless of price fluctuations.
-* **Volatility Reserve ($15/mo):** Accumulate cash reserves to deploy exclusively during major market drops.
-
-#### 2. Cold Storage & Reserve Rules
-* **Current Cold Storage Hold:** 0.0207376 BTC (Cold storage target—do not liquidate).
-* **Exchange Liquidity & Conversions:** Convert existing exchange balances (including USDC) into core BTC cold storage holdings.
-* **Volatility Reserve Deployment Schedule:**
-  * BTC drops 20% $\longrightarrow$ Deploy 20% of accumulated reserve.
-  * BTC drops 30% $\longrightarrow$ Deploy 25% of accumulated reserve.
-  * BTC drops 40% $\longrightarrow$ Deploy 25% of accumulated reserve.
-  * BTC drops 50%+ $\longrightarrow$ Deploy remaining 30% of accumulated reserve.
-
-### Part B: Dividend & Income Equity System
-
-#### 1. Monthly Allocation ($60 Deposit Split)
-* **SGOV (30-Day Treasury Bill ETF):** $24.00 (40%) — Capital preservation and yield reserve.
-* **SCHD (US Dividend Equity ETF):** $18.00 (30%) — Core long-term dividend equity compounding.
-* **MAIN (Main Street Capital BDC):** $9.00 (15%) — High-yield private credit exposure.
-* **O (Realty Income Corp REIT):** $9.00 (15%) — Monthly real estate income exposure.
-
-#### 2. Portfolio Operating Rules
-* **Automated DRIP:** Reinvest 100% of all dividends automatically back into the issuing holding.
-* **Rebalancing via New Capital:** Rebalance annually or direct new cash deposits to underweight positions. Avoid selling holdings solely for minor rebalancing adjustments.
-* **Position Hard Caps:**
-  * **SCHD:** Core anchor (Target 55%–65%).
-  * **SGOV:** Max 25% hard cap.
-  * **O:** Max 25% hard cap.
-  * **MAIN:** Max 15% hard cap.
-
----
-
-## Section 5: One-Person Operational Principles
-
-* **Leverage Over Labor:** Execute tasks using standardized software pipelines, automated scripts, and defined operational templates rather than manual effort or premature hiring.
-* **Strict Operational Focus:** Refuse broad AI consulting or unvetted digital product lines until the Minnesota service-business revenue pipeline achieves predictable cash flow.
-* **Disciplined Capital Allocation:** Operating cash flow funds reserves first, income assets second, and growth experiments third.
-* **Consistency Over Timing:** Execute dollar-cost averaging and portfolio allocations on schedule without attempting to time market cycles.
