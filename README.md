@@ -3,12 +3,10 @@ from pathlib import Path
 source = Path("/mnt/data/Pasted markdown(8).md")
 readme = Path("/mnt/data/README.md")
 
-# Read the user's exact source document.
 src = source.read_text(encoding="utf-8")
 
-# Build a GitHub-native, highly structured README around the source material.
-# The source wording is preserved; added material is limited to navigation,
-# presentation structure, badges, and formatting wrappers.
+# The source is the authoritative content. This formatter reorganizes presentation
+# and adds GitHub-native navigation/badges without changing the underlying claims.
 readme_content = r'''<div align="center">
 
 # MN GLOBAL INVESTMENT HOLDINGS, LLC
@@ -47,19 +45,9 @@ readme_content = r'''<div align="center">
 
 1. [Executive Summary & First-Principles Formula](#executive-summary--first-principles-formula)
 2. [Corporate & Legal Structure](#section-1-corporate--legal-structure)
-   - [Legal Entity Profile](#1-legal-entity-profile)
-   - [Compliance & Corporate Maintenance](#2-compliance--corporate-maintenance)
 3. [Core Business Model & Revenue Engine](#section-2-core-business-model--revenue-engine)
-   - [Strategic Sequence](#strategic-sequence)
-   - [Target Customer Profile](#1-target-customer-profile-icp)
-   - [Product Line & Offer Stack](#2-product-line--offer-stack)
 4. [90-Day Execution Roadmap](#section-3-90-day-execution-roadmap)
-   - [Days 1–14](#days-114-systems--prospecting-setup)
-   - [Days 15–45](#days-1545-market-acquisition--sales-testing)
-   - [Days 46–90](#days-4690-delivery-retainers--ip-standardization)
 5. [Treasury Management & Asset Allocation](#section-4-treasury-management--asset-allocation)
-   - [5-Year Bitcoin Accumulation Engine](#part-a-5-year-bitcoin-accumulation-engine)
-   - [Dividend & Income Equity System](#part-b-dividend--income-equity-system)
 6. [One-Person Operational Principles](#section-5-one-person-operational-principles)
 
 ---
@@ -68,25 +56,24 @@ readme_content = r'''<div align="center">
 
 This document serves as the master operating manual and strategic architecture for **MN Global Investment Holdings, LLC**. It strips the business down to its fundamental components and reconstructs it into a single, high-leverage, solo-operated enterprise.
 
----
-
-### 1. The Core Equation
+## 1. The Core Equation
 
 $$
-\text{Free Cash Flow (FCF)} = \text{Revenue} - \text{Fixed Delivery Costs} - \text{Tax Reserves}
+\text{Free Cash Flow (FCF)} =
+\text{Revenue} -
+\text{Fixed Delivery Costs} -
+\text{Tax Reserves}
 $$
 
----
-
-### 2. The Operating Identity
+## 2. The Operating Identity
 
 $$
-\text{Solo Founder (Terry Williams)} + \text{Productized Systems} = \text{Enterprise-Grade Operations}
+\text{Solo Founder (Terry Williams)} +
+\text{Productized Systems} =
+\text{Enterprise-Grade Operations}
 $$
 
----
-
-### 3. The Treasury Allocation Loop
+## 3. The Treasury Allocation Loop
 
 $$
 \text{Service FCF} \longrightarrow
@@ -115,8 +102,6 @@ $$
 | **Operations HQ** | 539 E McLemore Ave, #5, Memphis, TN 38106 |
 | **Principal Operating Market** | Minnesota (Focus: Twin Cities Metropolitan Area) |
 
----
-
 ## 2. Compliance & Corporate Maintenance
 
 1. **Minnesota Annual Renewal:** File annually with the Minnesota Secretary of State prior to December 31 to maintain active status (No filing fee for active good standing).
@@ -141,3 +126,156 @@ $$
 │ 6. Free Cash Flow (FCF) Generation                                            │
 │ 7. Reserve Accumulation & Treasury Compounding                                │
 └───────────────────────────────────────────────────────────────────────────────┘
+
+1. Target Customer Profile (ICP)
+Dimension	Definition
+Industry	Specialty Home-Service Businesses (Primary Initial Testing Niche: Minnesota HVAC Companies).
+Company Size	5 to 50 employees.
+Decision Maker	Owner, General Manager, or Operations Director.
+Economic Justification	Recovering 1 to 2 missed jobs or estimate follow-ups fully covers the implementation fee.
+Primary Pain Points	Missed inbound leads, slow response times, manual intake bottlenecks, lack of pipeline visibility, and unmanaged estimate follow-ups.
+2. Product Line & Offer Stack
+Offer Level	Name	Scope / Output	Pricing
+Stage 1: Entry	Workflow Profit Leak Audit	Complete diagnostic of intake, scheduling, estimate follow-up, and response times. Uncovers hidden operational leakage.	$497 (Upfront)
+Stage 2: Implementation	Lead-to-Booked-Client Automation Sprint	Fixed-scope deployment of automated lead response, automated missed-call text-back, CRM pipeline setup, and estimate follow-up sequences.	$3,500 – $5,000 (Fixed Scope)
+Stage 3: Recurring	Managed Workflow Operations	Ongoing monitoring, system maintenance, pipeline reporting, and continuous minor optimization of automated workflows.	$500 – $1,500 / mo (Retainer)
+Stage 4: Asset Creation	Reusable Workflow IP	Packaging tested automation flows into standardized SOPs, QA checklists, and template modules for rapid single-operator deployment.	Internal Asset
+SECTION 3: 90-DAY EXECUTION ROADMAP
+Days 1–14: Systems & Prospecting Setup
+Confirm active status with Minnesota Secretary of State and ensure registered agent details are up to date.
+Finalize legal banking, Stripe payment processing, Kraken corporate integration, and Public.com brokerage routing.
+Deploy $497 Audit discovery questionnaire, intake workflow, and scope-of-work templates.
+Build a verified prospect list of 100 Minnesota HVAC companies in the Twin Cities metro area.
+Days 15–45: Market Acquisition & Sales Testing
+Initiate direct personalized outreach (email, phone, local networking) targeting business owners.
+Execute discovery calls and sell $497 Workflow Profit Leak Audits.
+Deliver audit reports within 48 hours and present implementation proposals ($3,500–$5,000) within 24 hours of audit completion.
+Collect 100% upfront fees or 50/50 milestone deposits before deployment begins.
+Days 46–90: Delivery, Retainers & IP Standardization
+Execute 1 to 2 Lead-to-Booked-Client Automation Sprints.
+Transition successful sprint clients into 3-month Managed Workflow Operations agreements.
+Document core performance metrics (e.g., response time reduction, conversion rate improvements) to construct verified case studies.
+Convert completed builds into standard reusable templates to reduce future deployment labor.
+SECTION 4: TREASURY MANAGEMENT & ASSET ALLOCATION
+
+Excess free cash flow generated from MN Global Revenue Operations is systematically directed into a dual-engine capital allocation structure: Digital Assets (Bitcoin) and Dividend-Generating Equities.
+
+Treasury Allocation Architecture
+                         ┌────────────────────────────────┐
+                         │  MN GLOBAL REVENUE OPERATIONS  │
+                         │       (Operating Cash Flow)    │
+                         └───────────────┬────────────────┘
+                                         │
+                                         ▼
+                         ┌────────────────────────────────┐
+                         │    BUSINESS CHECKING & TAXES   │
+                         └───────────────┬────────────────┘
+                                         │
+                    ┌────────────────────┴────────────────────┐
+                    │                                         │
+                    ▼                                         ▼
+       ┌──────────────────────────────┐          ┌──────────────────────────────┐
+       │     BITCOIN TREASURY PLAN    │          │    INCOME PORTFOLIO SYSTEM   │
+       │       ($115/mo allocation)   │          │      ($60/mo allocation)     │
+       └──────────────┬───────────────┘          └──────────────┬───────────────┘
+                      │                                         │
+             ┌────────┴────────┐                       ┌────────┴────────┐
+             │                 │                       │                 │
+             ▼                 ▼                       ▼                 ▼
+       ┌───────────┐     ┌───────────┐           ┌───────────┐     ┌───────────┐
+       │  Weekly   │     │   Crash   │           │  Equity   │     │  Reserve  │
+       │ DCA ($25) │     │  Reserve  │           │  Income   │     │ Liquidity │
+       │ [Kraken]  │     │  ($15)    │           │ [Public]  │     │ [Public]  │
+       └───────────┘     └───────────┘           └───────────┘     └───────────┘
+Part A: 5-Year Bitcoin Accumulation Engine
+1. Monthly Allocation ($115 Total)
+Allocation	Amount	Operating Rule
+Weekly DCA	$100/mo	Buy $25 of BTC every week on Kraken regardless of price fluctuations.
+Volatility Reserve	$15/mo	Accumulate cash reserves to deploy exclusively during major market drops.
+Operating Rules
+Weekly DCA ($100/mo): Buy $25 of BTC every week on Kraken regardless of price fluctuations.
+Volatility Reserve ($15/mo): Accumulate cash reserves to deploy exclusively during major market drops.
+2. Cold Storage & Reserve Rules
+Cold Storage
+Current Cold Storage Hold: 0.0207376 BTC (Cold storage target—do not liquidate).
+Exchange Liquidity & Conversions: Convert existing exchange balances (including USDC) into core BTC cold storage holdings.
+Volatility Reserve Deployment Schedule
+BTC Drawdown	Reserve Deployment
+20%	Deploy 20% of accumulated reserve.
+30%	Deploy 25% of accumulated reserve.
+40%	Deploy 25% of accumulated reserve.
+50%+	Deploy remaining 30% of accumulated reserve.
+Part B: Dividend & Income Equity System
+1. Monthly Allocation ($60 Deposit Split)
+Holding	Monthly Allocation	Portfolio Function
+SGOV (30-Day Treasury Bill ETF)	$24.00 (40%)	Capital preservation and yield reserve.
+SCHD (US Dividend Equity ETF)	$18.00 (30%)	Core long-term dividend equity compounding.
+MAIN (Main Street Capital BDC)	$9.00 (15%)	High-yield private credit exposure.
+O (Realty Income Corp REIT)	$9.00 (15%)	Monthly real estate income exposure.
+2. Portfolio Operating Rules
+Rule 1 — Automated DRIP
+
+Reinvest 100% of all dividends automatically back into the issuing holding.
+
+Rule 2 — Rebalancing via New Capital
+
+Rebalance annually or direct new cash deposits to underweight positions. Avoid selling holdings solely for minor rebalancing adjustments.
+
+Rule 3 — Position Hard Caps
+Position	Allocation Rule
+SCHD	Core anchor (Target 55%–65%).
+SGOV	Max 25% hard cap.
+O	Max 25% hard cap.
+MAIN	Max 15% hard cap.
+SECTION 5: ONE-PERSON OPERATIONAL PRINCIPLES
+1. Leverage Over Labor
+
+Execute tasks using standardized software pipelines, automated scripts, and defined operational templates rather than manual effort or premature hiring.
+
+2. Strict Operational Focus
+
+Refuse broad AI consulting or unvetted digital product lines until the Minnesota service-business revenue pipeline achieves predictable cash flow.
+
+3. Disciplined Capital Allocation
+
+Operating cash flow funds reserves first, income assets second, and growth experiments third.
+
+4. Consistency Over Timing
+
+Execute dollar-cost averaging and portfolio allocations on schedule without attempting to time market cycles.
+
+Operating Architecture at a Glance
+BUSINESS REVENUE
+      │
+      ▼
+┌─────────────────────────┐
+│  FREE CASH FLOW (FCF)   │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│ OPERATING RESERVE / TAX │
+└────────────┬────────────┘
+             │
+       ┌─────┴─────┐
+       │           │
+       ▼           ▼
+   BITCOIN      EQUITIES
+   TREASURY     INCOME
+       │           │
+       └─────┬─────┘
+             ▼
+┌─────────────────────────┐
+│ LONG-TERM CAPITAL BASE  │
+└─────────────────────────┘
+<div align="center">
+MN GLOBAL INVESTMENT HOLDINGS, LLC
+
+Master Corporate Operating Blueprint & First-Principles Architecture
+
+</div> '''
+
+readme.write_text(readme_content, encoding="utf-8")
+print(f"Created: {readme}")
+print(f"Source document reviewed: {source}")
+print(f"README size: {readme.stat().st_size:,} bytes")
