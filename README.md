@@ -1,19 +1,3 @@
-#!/usr/bin/env bash
-# ==============================================================================
-# MN GLOBAL INVESTMENT HOLDINGS, LLC
-# One-Click Master README & Architecture Deployment Script
-# ==============================================================================
-# Target: Generates the master README.md file instantly on disk.
-# Usage: chmod +x deploy_readme.sh && ./deploy_readme.sh
-# ==============================================================================
-
-set -euo pipefail
-
-README_FILENAME="README.md"
-
-echo "[*] Initializing deployment of master corporate README for MN Global Investment Holdings, LLC..."
-
-cat << 'EOF' > "$README_FILENAME"
 # MN GLOBAL INVESTMENT HOLDINGS, LLC
 ### Master Corporate Operating Blueprint & Architecture
 
