@@ -1,58 +1,9 @@
 <div align="center">
 
-  <!-- Automated Full-Width Animated Marquee Header in Minnesota-Virginia Blue Devils Colors -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="100%" role="img" aria-label="MN Global Investment Holdings, LLC — Skill. Product. Traffic. Automation. Digital Vertical Integration.">
-    <defs>
-      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0B192C" />
-        <stop offset="50%" stop-color="#0057B8" />
-        <stop offset="100%" stop-color="#0B192C" />
-      </linearGradient>
-      <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1" />
-      </pattern>
-      <clipPath id="bannerClip">
-        <rect x="0" y="0" width="1200" height="132" rx="8" />
-      </clipPath>
-    </defs>
-
-    <g clip-path="url(#bannerClip)">
-      <!-- Full-width Blue Devils background -->
-      <rect x="0" y="0" width="1200" height="132" fill="url(#bgGrad)" />
-      <rect x="0" y="0" width="1200" height="132" fill="url(#gridPattern)" />
-
-      <!-- Top & bottom accent bars -->
-      <rect x="0" y="0" width="1200" height="4" fill="#FFFFFF" fill-opacity="0.85" />
-      <rect x="0" y="128" width="1200" height="4" fill="#FFFFFF" fill-opacity="0.85" />
-
-      <!-- Automated continuous marquee track moving left-to-right across the screen -->
-      <g>
-        <animateTransform
-          attributeName="transform"
-          type="translate"
-          from="-1200 0"
-          to="0 0"
-          dur="18s"
-          repeatCount="indefinite" />
-
-        <!-- Track Copy 1 -->
-        <text x="0" y="56" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="2.5">
-          MN GLOBAL INVESTMENT HOLDINGS, LLC
-        </text>
-        <text x="0" y="92" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.5">
-          SKILL. PRODUCT. TRAFFIC. AUTOMATION. DIGITAL VERTICAL INTEGRATION. &bull; EST. MAY 21, 2013
-        </text>
-
-        <!-- Track Copy 2 (Seamless loop) -->
-        <text x="1200" y="56" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="2.5">
-          MN GLOBAL INVESTMENT HOLDINGS, LLC
-        </text>
-        <text x="1200" y="92" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.5">
-          SKILL. PRODUCT. TRAFFIC. AUTOMATION. DIGITAL VERTICAL INTEGRATION. &bull; EST. MAY 21, 2013
-        </text>
-      </g>
-    </g>
-  </svg>
+  <!-- Automated Animated Header Image in Minnesota-Virginia Blue Devils Royal Blue (0057B8) -->
+  <a href="https://mnglobalcompliance.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3200&pause=1200&color=0057B8&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=95&lines=MN+GLOBAL+INVESTMENT+HOLDINGS%2C+LLC;Skill.+Product.+Traffic.+Automation.+Digital+Vertical+Integration." alt="MN Global Investment Holdings, LLC" />
+  </a>
 
   <p align="center">
     <strong>AI-First Workflow Engineering &bull; Sovereign Automation Infrastructure &bull; Established May 21, 2013</strong>
@@ -84,7 +35,7 @@
 | **Established** | May 21, 2013 (13 years in business) |
 | **Website / Email** | [mnglobalcompliance.com](https://mnglobalcompliance.com) / [info@mnglobalcompliance.com](mailto:info@mnglobalcompliance.com) |
 | **Headquarters** | Memphis, Tennessee (used for general business correspondence) |
-| **Primary NAICS Codes** | `541611` (Management Consulting) &bull; `541512` (Computer Systems Design) &bull; `513199` / `454110` (Digital Publishing) &bull; `425120` (Wholesale Trade Agents) |
+| **Primary NAICS Codes** | `541611` (Management Consulting) &bull; `541512` (Computer Systems Design) &bull; `513199` / `454110` (Digital Publishing) &bull; `425120` (Wholesale Trade Agents)[cite: 22, 23] |
 
 ---
 
@@ -266,11 +217,11 @@ MN Global operates under a three-phase internal control doctrine—**Audit, Exec
 
 ### Northeast Minnesota Community Mission & Philanthropy
 
-**MN Global Investment Holdings, LLC** publishes open technical tools publicly and allocates a dedicated portion of operating net revenue to community initiatives in **Northeast Minnesota** (governed with CPA review on charitable deduction treatment)[cite: 22, 23].
+**MN Global Investment Holdings, LLC** publishes open technical tools publicly and allocates a dedicated portion of operating net revenue to community initiatives in **Northeast Minnesota** (governed with CPA review on charitable deduction treatment):
 
-- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit (`EIN: [REDACTED]`)[cite: 22, 23].
-- **Youth STEM & Coding Education:** Support for youth STEM and coding education programs in Northeast Minnesota[cite: 22, 23].
-- **Transitional & Veteran Recovery Housing:** Support for transitional and veteran recovery housing initiatives[cite: 22, 23].
+- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit (`EIN: [REDACTED]`).
+- **Youth STEM & Coding Education:** Support for youth STEM and coding education programs in Northeast Minnesota.
+- **Transitional & Veteran Recovery Housing:** Support for transitional and veteran recovery housing initiatives.
 - **Lake Superior Environmental Data:** Support for Lake Superior open water-quality data projects[cite: 22, 23].
 
 ---
