@@ -158,7 +158,7 @@ Every digital product embeds a direct pathway to book a fixed-fee Workflow Audit
 
 **MN Global Investment Holdings, LLC** publishes open technical tools publicly and dedicates a fixed share of net operating revenue to community initiatives across **Northeast Minnesota**:
 
-- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit organization (`EIN: 83-1522782`).
+- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit organization (`EIN: [REDACTED]`).
 - **Youth STEM & Coding Education:** Supporting technical literacy, programming education, and workforce readiness programs for youth in Northeast Minnesota.
 - **Transitional & Veteran Recovery Housing:** Backing stable housing initiatives supporting individuals and military veterans in long-term recovery.
 - **Lake Superior Environmental Data:** Supporting open water-quality monitoring and public environmental data initiatives for Lake Superior.
@@ -206,3 +206,4 @@ For workflow audit inquiries, digital product support, or technical collaboratio
     <strong>MN Global Investment Holdings, LLC</strong> &bull; Established May 21, 2013 &bull; <em>Skill. Product. Traffic. Automation. Digital Vertical Integration.</em>
   </sub>
 </div>
+```[cite: 21, 22]
