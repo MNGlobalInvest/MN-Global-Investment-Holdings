@@ -1,9 +1,58 @@
 <div align="center">
 
-  <!-- Dynamic Header in Minnesota-Virginia Blue Devils Royal Blue (#0057B8) -->
-  <a href="https://mnglobalcompliance.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3200&pause=1200&color=0057B8&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=95&lines=MN+GLOBAL+INVESTMENT+HOLDINGS%2C+LLC;Skill.+Product.+Traffic.+Automation.+Digital+Vertical+Integration." alt="MN Global Investment Holdings, LLC" />
-  </a>
+  <!-- Automated Full-Width Animated Marquee Header in Minnesota-Virginia Blue Devils Colors -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="100%" role="img" aria-label="MN Global Investment Holdings, LLC — Skill. Product. Traffic. Automation. Digital Vertical Integration.">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0B192C" />
+        <stop offset="50%" stop-color="#0057B8" />
+        <stop offset="100%" stop-color="#0B192C" />
+      </linearGradient>
+      <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1" />
+      </pattern>
+      <clipPath id="bannerClip">
+        <rect x="0" y="0" width="1200" height="132" rx="8" />
+      </clipPath>
+    </defs>
+
+    <g clip-path="url(#bannerClip)">
+      <!-- Full-width Blue Devils background -->
+      <rect x="0" y="0" width="1200" height="132" fill="url(#bgGrad)" />
+      <rect x="0" y="0" width="1200" height="132" fill="url(#gridPattern)" />
+
+      <!-- Top & bottom accent bars -->
+      <rect x="0" y="0" width="1200" height="4" fill="#FFFFFF" fill-opacity="0.85" />
+      <rect x="0" y="128" width="1200" height="4" fill="#FFFFFF" fill-opacity="0.85" />
+
+      <!-- Automated continuous marquee track moving left-to-right across the screen -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          from="-1200 0"
+          to="0 0"
+          dur="18s"
+          repeatCount="indefinite" />
+
+        <!-- Track Copy 1 -->
+        <text x="0" y="56" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="2.5">
+          MN GLOBAL INVESTMENT HOLDINGS, LLC
+        </text>
+        <text x="0" y="92" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.5">
+          SKILL. PRODUCT. TRAFFIC. AUTOMATION. DIGITAL VERTICAL INTEGRATION. &bull; EST. MAY 21, 2013
+        </text>
+
+        <!-- Track Copy 2 (Seamless loop) -->
+        <text x="1200" y="56" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="2.5">
+          MN GLOBAL INVESTMENT HOLDINGS, LLC
+        </text>
+        <text x="1200" y="92" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.5">
+          SKILL. PRODUCT. TRAFFIC. AUTOMATION. DIGITAL VERTICAL INTEGRATION. &bull; EST. MAY 21, 2013
+        </text>
+      </g>
+    </g>
+  </svg>
 
   <p align="center">
     <strong>AI-First Workflow Engineering &bull; Sovereign Automation Infrastructure &bull; Established May 21, 2013</strong>
@@ -41,9 +90,9 @@
 
 ### Company Overview & Core Thesis
 
-> **Core Thesis:** Turn one core skill (fixing business workflows) into high-margin services, digital products, owned traffic, and proprietary automation—owning every layer of the digital stack through Digital Vertical Integration—then compound operating profits with discipline.
+> **Core Thesis:** Turn one core skill (fixing business workflows) into high-margin services, digital products, owned traffic, and proprietary automation—owning every layer of the digital stack through Digital Vertical Integration—then compound operating profits with discipline[cite: 22, 23].
 
-Founded on **May 21, 2013**, **MN Global Investment Holdings, LLC** has been in business for 13 years and remains in good standing in Minnesota[cite: 23]. The company runs as an AI-first, remote-first operation with zero employee payroll[cite: 23]. Software, self-hosted AI, cloud servers, and automated workflows execute repeat operations, while vetted independent contractors handle physical tasks[cite: 23]. The founder owns strategy, capital allocation, security, `RISK` exceptions, and final quality verification[cite: 23].
+Founded on **May 21, 2013**, **MN Global Investment Holdings, LLC** has been in business for 13 years and remains in good standing in Minnesota[cite: 22, 23]. The company runs as an AI-first, remote-first operation with zero employee payroll[cite: 22, 23]. Software, self-hosted AI, cloud servers, and automated workflows execute repeat operations, while vetted independent contractors handle physical tasks[cite: 22, 23]. The founder owns strategy, capital allocation, security, `RISK` exceptions, and final quality verification[cite: 22, 23].
 
 #### Operating Principles & Digital Vertical Integration Doctrine
 
@@ -52,7 +101,7 @@ Founded on **May 21, 2013**, **MN Global Investment Holdings, LLC** has been in 
 - **Cash Is Oxygen:** Profit and cash flow come before growth spending. Nothing gets funded unless it shortens the cash conversion cycle.
 - **Own the Digital Bottleneck (Digital Vertical Integration):** Control the scarcest inputs across the stack—self-hosted VPS compute, open-source AI models, proprietary extraction pipelines, owned email lists, and internal databases—rather than renting fragile third-party SaaS wrappers.
 - **Founder Reviews Exceptions:** Automation performs the first pass; the founder reviews `RISK` flags and strategic decisions.
-- **Total Separation:** Company money and personal money never mix[cite: 23].
+- **Total Separation:** Company money and personal money never mix[cite: 22, 23].
 
 #### Customer Acquisition & Monetization Funnel
 
@@ -63,13 +112,13 @@ Founded on **May 21, 2013**, **MN Global Investment Holdings, LLC** has been in 
 | **3** | **Buy** | Automated email sequences convert subscribers into `$29` to `$79` customers | Storefront |
 | **4** | **Audit** | Digital product buyers book a fixed-fee paid workflow audit (`$497` / `$997`) | Audit offer page |
 | **5** | **Implement** | Audit clients pay to deploy full workflow fixes (`$1,500` to `$6,500`) | Implementation tiers |
-| **6** | **Retain** | Clients transition onto a recurring Monthly Care Plan (`$197` to `$797/mo`) | Care Plan retainer[cite: 23] |
+| **6** | **Retain** | Clients transition onto a recurring Monthly Care Plan (`$197` to `$797/mo`) | Care Plan retainer[cite: 22, 23] |
 
 ---
 
 ### Systems Architecture & Commercial Offerings
 
-Systems are listed in priority order. Later systems scale only after earlier systems pay the bills[cite: 23].
+Systems are listed in priority order. Later systems scale only after earlier systems pay the bills[cite: 22, 23].
 
 | Priority | System | Strategic Scope & Rules | Status |
 | :--- | :--- | :--- | :--- |
@@ -77,7 +126,7 @@ Systems are listed in priority order. Later systems scale only after earlier sys
 | **Core (2)** | **Digital Products** | Near-zero marginal cost, runs autonomously, and feeds qualified audit leads. | ![Core 2](https://img.shields.io/badge/Core_2-0057B8?style=flat-square) |
 | **Core (3)** | **Tech & AI Infrastructure** | Private Ubuntu VPS, `Hermes`, and self-hosted AI powering all operations. | ![Core 3](https://img.shields.io/badge/Core_3-0057B8?style=flat-square) |
 | **Next (4)** | **Surplus Arbitrage** | Underpriced government auction assets (GSA Auctions, GovDeals, Property Room micro-purchases under `$25,000`) via automated Python scanners and Minnesota field contractors after Day 60. Iron Rule: never bid above the maximum-bid formula. | ![Phase 4](https://img.shields.io/badge/Phase_4-1E40AF?style=flat-square) |
-| **Last (5)** | **DashEats Platform** | Zero-commission commerce platform for restaurants and merchants featuring merchant portals, Kitchen Display Systems (KDS), and DashPay payments. Gating Rule: do not scale until Systems 1 through 3 fully cover operating expenses and reserve targets. | ![Phase 5](https://img.shields.io/badge/Phase_5-0B192C?style=flat-square)[cite: 23] |
+| **Last (5)** | **DashEats Platform** | Zero-commission commerce platform for restaurants and merchants featuring merchant portals, Kitchen Display Systems (KDS), and DashPay payments. Gating Rule: do not scale until Systems 1 through 3 fully cover operating expenses and reserve targets. | ![Phase 5](https://img.shields.io/badge/Phase_5-0B192C?style=flat-square)[cite: 22, 23] |
 
 #### System 1: Audit & Implementation Services (Fixed Prices Only, No Hourly Billing)
 
@@ -88,18 +137,18 @@ Systems are listed in priority order. Later systems scale only after earlier sys
 | **Starter Implementation** | `$1,500` | Deploys fixes for the top bottlenecks identified in the audit. |
 | **Standard Implementation** | `$3,500` | Deploys fixes across a wider set of operational and billing workflows. |
 | **Full Implementation** | `$6,500` | End-to-end workflow architecture rebuild, automation setup, and handoff. |
-| **Monthly Care Plan** | `$197 to $797 / mo` | Ongoing workflow monitoring, reporting, and system adjustments.[cite: 23] |
+| **Monthly Care Plan** | `$197 to $797 / mo` | Ongoing workflow monitoring, reporting, and system adjustments[cite: 22, 23]. |
 
 #### System 2: Digital Products
 
-Every product embeds a direct call-to-action link to book a paid audit. Mini-courses and bundles are added only after the initial three paid products generate consistent sales[cite: 23].
+Every product embeds a direct call-to-action link to book a paid audit. Mini-courses and bundles are added only after the initial three paid products generate consistent sales[cite: 22, 23].
 
 | Product | Price | Purpose |
 | :--- | :--- | :--- |
 | **Home-Services Self-Audit Checklists** | `Free` | Lead magnet that builds the owned email list. |
 | **Discovery Audit Pack** | `$29` | Entry product enabling business owners to self-audit workflows. |
 | **Invoice-on-Completion Playbook** | `$49` | Helps service businesses accelerate billing and cash collection. |
-| **Lead-to-Quote Starter Kit** | `$79` | Helps businesses respond to leads and send quotes rapidly.[cite: 23] |
+| **Lead-to-Quote Starter Kit** | `$79` | Helps businesses respond to leads and send quotes rapidly[cite: 22, 23]. |
 
 ---
 
@@ -122,13 +171,13 @@ Every product embeds a direct call-to-action link to book a paid audit. Mini-cou
 | **Orchestration & Ledger** | `Python` &bull; `Hermes` &bull; `memory.md` | Research, administrative tasks, report drafting, scheduling, and immutable action/audit trail logging. |
 | **Call Transcription** | `Whisper (local)` | Transcribes discovery calls and voice notes locally. |
 | **Visual Generation** | `FLUX.1 schnell` or `Stable Diffusion XL` | Optional GPU burst only if needed; otherwise use standardized pin templates. |
-| **Model Runner & VCS** | `Ollama` or `llama.cpp` (CPU); `vLLM` (GPU) &bull; `GitHub` (private repos) | Start with `Ollama` on CPU VPS; version control for all scripts, prompts, and SOPs.[cite: 23] |
+| **Model Runner & VCS** | `Ollama` or `llama.cpp` (CPU); `vLLM` (GPU) &bull; `GitHub` (private repos) | Start with `Ollama` on CPU VPS; version control for all scripts, prompts, and SOPs[cite: 22, 23]. |
 
 ---
 
 ### Money Plan & Treasury Operations
 
-MN Global governs capital through disciplined cash-flow hierarchy, reserve targets, and structured treasury channels[cite: 23].
+MN Global governs capital through disciplined cash-flow hierarchy, reserve targets, and structured treasury channels[cite: 22, 23].
 
 #### Capital Allocation Channels
 
@@ -137,7 +186,7 @@ MN Global governs capital through disciplined cash-flow hierarchy, reserve targe
 | **Operating Reserve** | `30%` of gross revenue (until 9-month runway is funded) | Runway, federal/state taxes, VPS/software bills, short-term working capital. |
 | **Bitcoin Treasury (Cold Storage + Yield Engine)** | Founder-defined `%` of net profit | Long-term multi-signature cold storage accumulation (DCA) plus an isolated self-custody DeFi yield tranche for monthly cash flow. |
 | **Dividend Equity Portfolio** | Founder-defined `%` of net profit | Liquid income-producing ETFs: `SCHD`, `SGOV`, `JEPQ`, `SPYD`, `VNQ`. |
-| **Aetheryield Protocol** | Founder-defined `%` (strictly capped small allocation) | Isolated, higher-risk DeFi yield position.[cite: 23] |
+| **Aetheryield Protocol** | Founder-defined `%` (strictly capped small allocation) | Isolated, higher-risk DeFi yield position[cite: 22, 23]. |
 
 #### Core Treasury Rules, Bitcoin Cash Flow Blueprint & Real Estate Strategy
 
@@ -159,13 +208,13 @@ MN Global governs capital through disciplined cash-flow hierarchy, reserve targe
   - Allocate new real estate treasury capital `80%` to `VNQ` (liquid real estate ETF) and `20%` to `Lofty` (tokenized fractional rental real estate).
   - Verify `Lofty` property cash yields, management fees, and secondary-market liquidity rules before deploying capital.
   - Rebalance and review Bitcoin, `VNQ`, and `Lofty` positions quarterly, accounting for tax treatment on distributions.
-- **Policy Notice:** Internal company treasury policy only—not licensed financial or investment advice; confirm exact allocation percentages and entity tax treatment with a licensed CPA, as digital assets, DeFi smart contracts, and equities carry market and technological risk[cite: 23].
+- **Policy Notice:** Internal company treasury policy only—not licensed financial or investment advice; confirm exact allocation percentages and entity tax treatment with a licensed CPA, as digital assets, DeFi smart contracts, and equities carry market and technological risk[cite: 22, 23].
 
 ---
 
 ### Operating Doctrine, Workflows & Governance
 
-MN Global operates under a three-phase internal control doctrine—**Audit, Execute, and Report**—backed by cost discipline (`Waste Kill List` scoring expenses from 1 to 5 on Revenue Proximity and Substitutability, cancelling items scoring below 3 on both within 14 days), six core one-page SOPs (`SOP-FIN-001`, `SOP-SALES-001`, `SOP-OPS-001`, `SOP-FIN-002`, `SOP-HR-001`, `SOP-STRAT-001`), a Monday-to-Friday operating rhythm, and expansion gating (requiring Cash Runway over 9 months and Gross Margin above 60%, funded from Recovered Capital and retained operating cash flow)[cite: 23].
+MN Global operates under a three-phase internal control doctrine—**Audit, Execute, and Report**—backed by cost discipline (`Waste Kill List` scoring expenses from 1 to 5 on Revenue Proximity and Substitutability, cancelling items scoring below 3 on both within 14 days), six core one-page SOPs (`SOP-FIN-001`, `SOP-SALES-001`, `SOP-OPS-001`, `SOP-FIN-002`, `SOP-HR-001`, `SOP-STRAT-001`), a Monday-to-Friday operating rhythm, and expansion gating (requiring Cash Runway over 9 months and Gross Margin above 60%, funded from Recovered Capital and retained operating cash flow)[cite: 22, 23].
 
 <details>
 <summary><strong>End-to-End Workflows, Weekly Rhythm & Risk Controls (Click to Expand)</strong></summary>
@@ -197,7 +246,7 @@ MN Global operates under a three-phase internal control doctrine—**Audit, Exec
 5. **Data Sovereignty & Risk Controls**
    - Client documents never leave MN Global's private VPS (zero external commercial AI API calls with client data).
    - Commercial-use licenses for open-source models are verified before installation and re-verified quarterly.
-   - Marketing presents factual audit findings only without guaranteeing specific revenue or cost-savings outcomes.[cite: 23]
+   - Marketing presents factual audit findings only without guaranteeing specific revenue or cost-savings outcomes[cite: 22, 23].
 
 </details>
 
@@ -211,18 +260,18 @@ MN Global operates under a three-phase internal control doctrine—**Audit, Exec
 | **Phase 2: Infrastructure & Vertical Integration** | Sovereign AI & automation stack | Hardened Ubuntu VPS, `Hermes`, `Ollama`/`Qwen`, OCR, GitHub, `memory.md` ledger. |
 | **Phase 3: Commercial Launch** | Predictable service & product cash flow | Pilot-to-Standard Audits, digital storefront, Pinterest-to-email engine, Care Plans. |
 | **Phase 4: Procurement & Platform Expansion** | Diversified cash-flow engines | Surplus listing scanners, max-bid automation, DashEats merchant tools. |
-| **Phase 5: Treasury & Wealth Compounding** | Multi-asset balance sheet growth | Bitcoin cold storage & DeFi yield engine, dividend ETFs, `VNQ`/`Lofty` real estate.[cite: 23] |
+| **Phase 5: Treasury & Wealth Compounding** | Multi-asset balance sheet growth | Bitcoin cold storage & DeFi yield engine, dividend ETFs, `VNQ`/`Lofty` real estate[cite: 22, 23]. |
 
 ---
 
 ### Northeast Minnesota Community Mission & Philanthropy
 
-**MN Global Investment Holdings, LLC** publishes open technical tools publicly and allocates a dedicated portion of operating net revenue to community initiatives in **Northeast Minnesota** (governed with CPA review on charitable deduction treatment)[cite: 23].
+**MN Global Investment Holdings, LLC** publishes open technical tools publicly and allocates a dedicated portion of operating net revenue to community initiatives in **Northeast Minnesota** (governed with CPA review on charitable deduction treatment)[cite: 22, 23].
 
-- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit (`EIN: [REDACTED]`)[cite: 23].
-- **Youth STEM & Coding Education:** Support for youth STEM and coding education programs in Northeast Minnesota[cite: 23].
-- **Transitional & Veteran Recovery Housing:** Support for transitional and veteran recovery housing initiatives[cite: 23].
-- **Lake Superior Environmental Data:** Support for Lake Superior open water-quality data projects[cite: 23].
+- **Primary Initiative — Addiction Recovery:** Direct financial support for **Recovery Alliance Duluth (RAD)**, a registered 501(c)(3) nonprofit (`EIN: [REDACTED]`)[cite: 22, 23].
+- **Youth STEM & Coding Education:** Support for youth STEM and coding education programs in Northeast Minnesota[cite: 22, 23].
+- **Transitional & Veteran Recovery Housing:** Support for transitional and veteran recovery housing initiatives[cite: 22, 23].
+- **Lake Superior Environmental Data:** Support for Lake Superior open water-quality data projects[cite: 22, 23].
 
 ---
 
